@@ -986,7 +986,7 @@ df_model_camera$parameter %<>% dplyr::recode(`b_muNominal_Intercept` = "Nom_Inte
 saveRDS(df_model_camera, "./rds/df_model_camera.rds")
 ```
 
-```{r model-camera, fig.cap="Regression model plot for the RE Type (Nominal, Null) with the predictors Discourse Status (Introduction, Maintenance, Re-introduction) and Participant Group (Native, Late)", fig.height=2.5, fig.pos="hbt!", fig.width=4, echo=FALSE, message=FALSE, cache=FALSE, results='asis', warnings=FALSE}
+```{r model-camera, fig.cap="Regression model plot for the RE Type (Nominal, Null) with the predictors Discourse Status (Introduction, Maintenance, Re-introduction) and Participant Group (Native, Late)", fig.height=3.5, fig.pos="hbt!", fig.width=4, echo=FALSE, message=FALSE, cache=FALSE, results='asis', warnings=FALSE}
 df_model_1 %<>% mutate(model = "All")
 df_model_camera %<>% mutate(model = "Camera")
 model_comparison <- rbind(df_model_1, df_model_camera)
@@ -994,8 +994,8 @@ model_comparison <- rbind(df_model_1, df_model_camera)
 p4 <- model_comparison %>% 
   ggplot(aes(m, y=factor(parameter, levels = rev(levels(factor(parameter)))), group = model, color = model)) +
   geom_point(size = 2.5, position = position_dodge(width = 0.6)) +
-  geom_errorbarh(aes(xmin = l, xmax = h), alpha = 1, height = 0, size = 1.5,position = position_dodge(width = 0.6)) +
-  geom_errorbarh(aes(xmin = ll, xmax = hh, height = 0), position = position_dodge(width = 0.6)) + vline_0(linetype = "dashed") +
+  geom_errorbarh(aes(xmin = l, xmax = h), alpha = 1, height = 0, size = 1.5, position = position_dodge(width = 0.6)) +
+  geom_errorbarh(aes(xmin = ll, xmax = hh), height=0, position = position_dodge(width = 0.6)) + vline_0(linetype = "dashed") +
   xlab("Estimate (log odds)") + ylab("Coefficients") + theme_apa()
 p4
 ```
