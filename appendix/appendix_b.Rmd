@@ -1,0 +1,191 @@
+\setlength{\columnsep}{12pt}
+\twocolumn
+\linespread{1}
+
+# Episodes in the stimuli.
+
+\justifying
+\small
+
+**Narration 1** \vspace{-0.3cm}
+
+1\. Tom chases Jerry, wearing a wooden plank \vspace{-0.3cm}
+
+2\. Tom and Jerry enter a tube \vspace{-0.3cm}
+
+3\. Tom falls down and Jerry runs away \vspace{-0.3cm}
+
+4\. The tube gets thinner and Tom keeps chasing Jerry \vspace{-0.3cm}
+
+5\. Jerry gets out and escapes \vspace{-0.3cm}
+
+6\. Tom follows Jerry in the shape of a stick
+
+**Narration 2** \vspace{-0.3cm}
+
+1\. Tom walks past a female cat sitting on a couch \vspace{-0.3cm}
+
+2\. Tom turns to and approaches the female cat \vspace{-0.3cm}
+
+3\. The female cat blushes \vspace{-0.3cm}
+
+4\. Tom offers a fish in aquarium to the female cat \vspace{-0.3cm}
+
+5\. The female cat rejects the offer \vspace{-0.3cm}
+
+6\. Tom offers a bird in cage to the female cat \vspace{-0.3cm}
+
+7\. Episode 5 is repeated \vspace{-0.3cm}
+
+8\. Tom leaves by walking in a flirtatious manner
+
+**Narration 3** \vspace{-0.3cm}
+
+1\. Jerry falls down and tries to walk up the stairs \vspace{-0.3cm}
+
+2\. Tom pulls the carpet back \vspace{-0.3cm}
+
+3\. Jerry struggles \vspace{-0.3cm}
+
+4\. A piano falls down the stairs \vspace{-0.3cm}
+
+5\. Jerry manages to escape \vspace{-0.3cm}
+
+6\. Tom sees the piano and tries to run away \vspace{-0.3cm}
+
+7\. The piano smashes into Tom and flattens him \vspace{-0.3cm}
+
+8\. Tom falls on the ground
+
+**Narration 4** \vspace{-0.3cm}
+
+1\. Tom hides behind a cardboard house \vspace{-0.3cm}
+
+2\. Jerry walks toward the house with a toy girl mouse \vspace{-0.3cm}
+
+3\. The toy leaves Jerry who stops at the entrance \vspace{-0.3cm}
+
+4\. The toy enters the house \vspace{-0.3cm}
+
+5\. The toy gets smashed into pieces \vspace{-0.3cm}
+
+6\. Jerry is surprised \vspace{-0.3cm}
+
+7\. Tom hurts his stomach after swallowing the toy \vspace{-0.3cm}
+
+8\. Tom looks at his broken teeth on a mirror \vspace{-0.3cm}
+
+9\. Tom gets angry and throws down the mirror
+
+**Narration 5** \vspace{-0.3cm}
+
+1\. Tom fakes sleeping and suddenly gets up \vspace{-0.3cm}
+
+2\. Tom pulls a rope inside a couch \vspace{-0.3cm}
+
+3\. Jerry comes out of the couch holding a bar of soap \vspace{-0.3cm}
+
+4\. Jerry washes Tom's mouth with the bar and flees \vspace{-0.3cm}
+
+5\. Tom spits the soap out \vspace{-0.3cm}
+
+6\. Jerry escapes to the nest with the rope \vspace{-0.3cm}
+
+7\. Tom catches the rope and stars pulling it \vspace{-0.3cm}
+
+8\. A mouse trap comes out and catches Tom's nose \vspace{-0.3cm}
+
+9\. Tom yells and removes the trap
+
+**Narration 6** \vspace{-0.3cm}
+
+1\. Tom points a sword at Jerry and catches him \vspace{-0.3cm}
+
+2\. Tom looks at the ill mouse \vspace{-0.3cm}
+
+3\. Red spots appear on Jerry's face \vspace{-0.3cm}
+
+4\. Tom gets scared and drops Jerry \vspace{-0.3cm}
+
+5\. Tom rushes into bathroom \vspace{-0.3cm}
+
+6\. Tom washes his hands \vspace{-0.3cm}
+
+7\. Tom opens a drawer \vspace{-0.3cm}
+
+8\. Tom swallows pills one after another \vspace{-0.3cm}
+
+9\. Feeling ill, Tom looks out of the window \vspace{-0.3cm}
+
+10\. Tom and Jerry look at each other
+
+**Narration 7** \vspace{-0.3cm}
+
+1\. Two male cats chase one another \vspace{-0.3cm}
+
+2\. Tom approaches a female cat and kisses her cheek \vspace{-0.3cm}
+
+3\. Tom hides away when the black cat returns \vspace{-0.3cm}
+
+4\. Tom pokes his head behind the couch again \vspace{-0.3cm}
+
+5\. Episode 3 is repeated \vspace{-0.3cm}
+
+6\. The black cat sees the female cat and hugs her \vspace{-0.3cm}
+
+7\. Tom appears and the black cat kisses Tom instead \vspace{-0.3cm}
+
+8\. The two male cats move away from one another
+
+**Narration 8** \vspace{-0.3cm}
+
+1\. Jerry hits Tom's knee with a hammer \vspace{-0.3cm}
+
+2\. Tom suddenly jumps up \vspace{-0.3cm}
+
+3\. Tom yells and holds his knee \vspace{-0.3cm}
+
+4\. Jerry runs towards Tom holding a thermometer \vspace{-0.3cm}
+
+5\. Jerry sticks the thermometer into Tom's mouth \vspace{-0.3cm}
+
+6\. Jerry lights a fire under the thermometer \vspace{-0.3cm}
+
+7\. The red liquid starts to rise up \vspace{-0.3cm}
+
+8\. The thermometer explodes
+
+**Narration 9** \vspace{-0.3cm}
+
+1\. Tom sits on Jerry who tries to get loose \vspace{-0.3cm}
+
+2\. Jerry looks around and sees a hat ribbon\vspace{-0.3cm}
+
+3\. Jerry finds a needle attached to the hat \vspace{-0.3cm}
+
+4\. Jerry takes the needle and sticks Tom with it \vspace{-0.3cm}
+
+5\. Tom turns red and jumps \vspace{-0.3cm}
+
+6\. Jerry places the needle between two cushions \vspace{-0.3cm}
+
+7\. Tom dodges the needle
+
+**Narration 10** \vspace{-0.3cm}
+
+1\. Wearing a stethoscope, Tom catches Jerry \vspace{-0.3cm}
+
+2\. Jerry yells into the stethoscope \vspace{-0.3cm}
+
+3\. Tom's head pops up \vspace{-0.3cm}
+
+4\. Jerry runs and enter a mouse nest \vspace{-0.3cm}
+
+5\. Tom inserts a gun into the nest \vspace{-0.3cm}
+
+6\. The gun bends over toward Tom \vspace{-0.3cm}
+
+7\. Tom fires the gun and his head explodes 
+
+\hspace{0.5cm}
+

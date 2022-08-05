@@ -1,0 +1,651 @@
+---
+title: Reference Tracking and Perspective Taking Strategies of Native and Late Signers in Turkish Sign Language
+abstract: |
+  We investigated the reference tracking and perspective taking strategies among native and late adult deaf signers of Turkish Sign Language. Consistent with the theories of referential accessibility, signers used more explicit forms for introducing and re-introducing referents and less implicit forms for maintaining referents. As for age of acquisition effects, we report limited over-redundancy for late signers who used null marking less compared to native signers. Furthermore, native signers mixed observer and character perspectives more frequently for the concurrent tracking of multiple referents. We conclude that native signers utilize the spatial affordances of the visual-spatial modality better than late signers.
+keywords: "Referential accessibility, signed narratives, pragmatic competence, delayed language acquisition, Turkish Sign Language"
+journal: "Journal of Pragmatics"
+date: "`r Sys.Date()`"
+bibliography: ./bibliography/references.bib
+times: true
+numbersections: true
+classoption: "review"
+csl: ./bibliography/elsevier-harvard.csl
+output: rticles::elsevier_article
+header-includes:
+   - \usepackage{floatrow}
+   - \usepackage{hyperref}
+   - \usepackage{enumitem}  
+   - \usepackage{float}
+   - \floatplacement{table}{H}
+   - \floatsetup[table]{capposition=bottom}
+   - \floatplacement{figure}{H}
+   - \floatsetup[figure]{capposition=bottom}
+   - \usepackage{times}
+   - \usepackage{smartdiagram}
+   - \usepackage{ragged2e}
+   - \usepackage{tikz}
+   - \usepackage{xcolor}
+   - \usepackage[utf8]{inputenc}
+   - \usepackage[T1]{fontenc}
+   - \usepackage{graphicx}
+   - \usepackage{./sty/langsci-gb4e}
+   - \usepackage{caption}
+   - \usepackage{multicol}
+   - \setlength{\columnsep}{-3cm}
+   - \usepackage{setspace}
+
+---
+
+# Introduction
+
+Narratives are extensive discourses that construct an important part of human communication. In order to create a systematic and coherent organization of experiences, narrators must choose appropriate linguistic forms to refer to entities. Certain forms such as nominal expressions are commonly used for the first mention of a referent in a discourse, and other forms such as pronouns and null marking may track previously mentioned entities which could either be maintained across multiple clauses or re-introduced back into the discourse. The selection of these referring expressions and anaphoric tools (henceforth REATs) is contingent on cognitive abilities, such that the encoder must rely on the activation of the working memory to keep in mind previously referred expressions and long strings of information [@morgan2005; @bamberg1997]. Pragmatic abilities too play a pivotal role in the tracking of referents: The form with the least amount of redundant information must be selected based on the accessibility levels of the referent [@ahn2019; @ariel1990]. In particular, second language learners find it difficult to produce a coherent and structured narrative where it is important to use REATs appropriately in line with the cognitive statuses of the referents. This finding comes both from research examining L2 acquisition of spoken narratives [@hickmann1996; @williams1988] and signed narratives [@bel2015; @frederiksen2019] which are conveyed in different communication modalities. Yet, sign languages and deaf populations have remained mostly understudied with respect to the acquisition of narrative and pragmatic competence.
+
+Sign languages are the natural languages of the visual-spatial modality prominently used among deaf populations. The cognitive and linguistic development of native signers (i.e., those who start acquiring a sign language from one or more deaf caregivers following birth) parallels that of native speakers [@chamberlain_language_1999]. However, reports indicate that over 90% of all deaf individuals are born into hearing families who do not know how to sign [@woll2013]. This means that the auditory modality used in the household is not accessible to many deaf children. That is why the age of acquisition of a first functional language varies greatly among deaf children, with many of whom being deprived of their first languages typically until after age 7 when they start formal education in a deaf school. Consequently, language deprivation has been found to have negative effects on certain cognitive and linguistic measures among late signing children. To name a few, delayed exposure to a first functional language is reported to negatively affect deaf children's morphosyntactic abilities [@boudreault2006; @newport1990] and narrative abilities [@becker2009].
+
+Since there is a paucity of studies that examine deaf adult signers with delayed exposure to a sign language, it is not very clear whether the narrative abilities of late signers differ from those of native signers. To expand on the previous literature, the present study aims to investigate the reference tracking strategies of native and late adult signers in Turkish Sign Language (Türk İşaret Dili - TİD) narratives through a story-telling paradigm. We explore the nature of REAT selection as a possible indicator of pragmatic competence between our acquisition groups. The paper is organized as follows: Section 1 (i) gives an overview of REAT selection in sign languages, (ii) describes attested REATs in TİD, and (iii) reviews previous findings on the effect of delayed first language acquisition on signers' narrative competence. Section 2 and 3 present the methodology and results of this paper, respectively. Finally, Section 4 provides a general discussion of the reference tracking strategies of native and late signers in relation to the effects of delayed first language acquisition on pragmatic competence.
+
+## REAT Selection
+
+Natural languages can be systematically used to keep track of previous referents in the discourse and mark the changing cognitive statuses of the REATs to create a more coherent narrative. Among the theoretical frameworks that aim to explain that different linguistic forms are selected in accordance with the addressee's mental representations of the referents in the discourse is the Givenness Hierarchy [@gundel1993]. According to this model, given or familiar information is expressed in more attenuated forms such as pronominal use and null marking since the mental status of the expressed referent is already at the center of attention, as indicated by the present contextual information [@chafe1976]. The Givenness Hierarchy is akin to other previously proposed models of reference control within the topicality and saliency paradigm such as the Accessibility Hierarchy [@ariel1990], Topic Continuity [@givon1983], and Familiarity Scale [@prince1981]. @gundel1993 argued that the distribution of forms is not random and abides by the Gricean Maxim of Quantity [@grice1975] in that the individual must make the most informative and succinct choice possible. On this ground, for highly accessible referents, linguistic forms with the least phonetic content are selected for the least amount of processing effort.
+
+It is also possible to categorize REATs into three according to their discourse statuses [@gullberg2006]. A referent can be introduced, maintained, that is, continued across two or more clauses, or re-introduced into the discourse following a topic shift. Based on the principles of reference accessibility, the introduction and re-introduction of a referent are often accomplished by full noun phrases which can be commonly modified by an adjective or demonstrative in spoken languages and also by optional markers such as classifier constructions or index points in sign languages. Maintenance, on the other hand, is typically marked with pronominals, classifiers, and null markers in many sign languages since the continued referent is still highly accessible to the addressee.
+
+## Tracking Referents in Turkish Sign Language (TİD)
+
+The linguistic inventory for discourse referents in TİD includes nominal constructions (bare nouns, fingerspelled nouns, and modified nouns), null markers (plain verb, agreement verb, and constructed action), classifier predicates (whole entity classifiers, body part classifiers, handling classifiers, and extension classifiers), and overt pronouns (pronominal index or IX). This interim section describes the REAT types attested in TİD under four main headings.
+
+```{=tex}
+\begin{multicols}{2}
+\begin{exe}
+\ex
+\begin{xlist}
+\ex Full noun \\\glll
+\includegraphics[width=50pt]{pictures/1a_1.png}\\ \textsc{mouse\footnotemark} \\ \\ 
+\ex Noun modified by classifier \\\glll
+\includegraphics[width=50pt]{pictures/1c_2.png} \includegraphics[width=50pt]{pictures/1c_1.png} \\ \textsc{soap} \textsc{soap.cl} \\ \\ 
+\ex Fingerspelled noun\\\glll 
+\includegraphics[width=50pt]{pictures/1b_1.png} \includegraphics[width=50pt]{pictures/1b_2.png} \includegraphics[width=50pt]{pictures/1b_3.png}\\ \textsc{t-} \textsc{o-} \textsc{m} \\ \\
+\ex Noun modified by index (\textsc{IX})\\\glll 
+\includegraphics[width=50pt]{pictures/1d_1.png} \includegraphics[width=50pt]{pictures/1d_2.png}\\ \textsc{ix} \textsc{cat} \\ \\
+\end{xlist}
+\end{exe}
+\end{multicols}
+\ea 
+\ea Pronominal \\\glll
+\includegraphics[width=50pt]{pictures/2_1.png} \includegraphics[width=50pt]{pictures/2_2.png} \\ \textsc{ix} \textsc{sick} \\ \\
+\z \z
+\begin{multicols}{4}
+\begin{exe}
+\ex
+\begin{xlist}
+\ex Whole entity \\\glll 
+\includegraphics[width=50pt]{pictures/3e.png} \\ \textsc{fish.fall}\\ \\
+\ex Body part \\\glll
+\includegraphics[width=50pt]{pictures/3b.png} \\ \textsc{walk} \\ \\ 
+\ex Handling \\\glll 
+\includegraphics[width=50pt]{pictures/3c.png} \\ \textsc{hold} \\ \\
+\ex Extension \\\glll 
+\includegraphics[width=50pt]{pictures/3d_1.png} \includegraphics[width=50pt]{pictures/3a.png}\\ \textsc{plank} {\textsc{dh: mouse}} \\ {} {\textsc{ndh: tunnel}}\\ \\
+\end{xlist}
+\end{exe}
+\end{multicols}
+\begin{multicols}{3}
+\begin{exe}
+\ex
+\begin{xlist}
+\ex Constructed action \\\glll 
+\includegraphics[width=50pt]{pictures/4c.png} \\ \textsc{struggle} \\ \\
+
+\ex Plain verb  \\\glll
+\includegraphics[width=50pt]{pictures/4a_2.png}  \\ \textsc{enter}\\ \\
+
+\ex Agreement verb  \\\glll 
+\includegraphics[width=50pt]{pictures/4b_1.png} 
+\includegraphics[width=50pt]{pictures/4b_2.png} \\ {\textsc{$_{1}$hit$_{3}$}} {} \\ \\ 
+\end{xlist}
+\end{exe}
+\end{multicols}
+\footnotetext{We use small capitals to indicate sign glosses.}
+```
+### Nominals
+
+In TİD, it is possible to use bare noun phrases (\textsc{bare nom}) as in (1a) and fingerspelled nouns (\textsc{fs nom}) as in (1c) to introduce or re-introduce referents into the discourse. The first mention of a referent can also be tracked with modified nouns (\textsc{mod nom}). Nouns can be modified by classifiers as in (1b) which either follow or precede a nominal. Alternatively, the noun phrase can retain its basic meaning and the modifier can help determine its position on the accessibility hierarchy by expressing the definiteness of the nominal. Definiteness in TİD can be expressed with a prenominal or postnominal \textsc{ix} functioning as a determiner or a demonstrative as in (1d).
+
+### Pronominals \textsc{ix}
+
+The \textsc{ix} sign (extended index finger) has various functions in sign languages, one of which is the pronominal use which refers to established nominals by pointing to a previously assigned abstract or physical locus in the signing space when re-introducing a topic in discourse [@emmorey1996]. The same \textsc{ix} function has also been identified for TİD [@sevinç2006]. The example in (2) illustrates a spatially-anchored pronominal reference for topic re-introduction. These signs are thus rarely used for the first mention of an entity [@perniss2015]. Although other interpretations consider pointing signs without an noun phrases as examples of demonstratives [@koulidobrova2016], for the purposes of the present study, we will refer to those constructions as pronominal \textsc{ix} and particularly examine their non-deictic or personal pronoun realizations as a possible discourse strategy to mainly mark topic shift among native and late signers of TİD.
+
+### Classifiers
+
+Classifier predicates are highly complex morphological constructions which are very common in sign languages [@supalla1986]. These are manually signed iconic representations of animate or inanimate objects, and they embody several properties pertaining to the nominal referent including its location in the signing space, movement, path, size, and shape [@talmy2003]. As in most sign languages hitherto studied, classifier constructions are also common and found in TİD [see @dikyuva2015 for a review]. Following the classification of @engberg-pedersen1993, we distinguish between four types of classifier constructions. Whole entity classifiers (\textsc{wecl}) represent the entirety of any referent whereas body part classifiers (\textsc{bpcl}) only reflect a specific part of an animate entity (e.g., limbs, head, tongue, teeth, and so forth). Handling classifiers (\textsc{hcl}) occur with transitive verbs and depict how an object is handled or manipulated by agent. On this ground, an \textsc{hcl}\footnote{As discussed before, an \textsc{hcl} is transitive in nature and depicts the handling action performed by an animate agent. This is why most research tend to consider \textsc{hcl}s as an extension to constructed action and group them with the character perspective where the signer's body aligns with the referent (Cormier et al., 2013; Dudis, 2004).} depicts the manner of the referring action while the former two constructions encode the location of the entity as well as its motion in space. Extension classifiers (\textsc{extcl}), on the other hand, denote the size and shape of an entity by following a trajectory to trace its shape. We exemplify these constructions in (3). As expected, these constructions are argued to be higher on the accessibility hierarchy than nominals.
+
+### Null Marking
+
+Parallel to spoken languages, many sign languages have been reported to allow null subjects and/or objects and make use of null marking when referring to highly accessible referents which are still active in the mental representation of the addressee. In signed discourse, this is achieved by employing verbal constructions when the event is narrated via the observer perspective. To identify the predicate types in ASL, @padden1986 suggested a triadic categorization of verbs in sign languages: plain verbs, agreement verbs, and spatial verbs. According to this classification, plain verbs (\textsc{plain}) (4b) do not agree with the subject or the object. This means that they are not inflected for number or person. This contrasts with agreeing verbs (\textsc{agr}) (4c) the starting or the ending point of which can be modified to specific loci for person and number agreement while spatial verbs (as in \textsc{ix book put} 'I placed the book there') agree with locative arguments but like plain verbs, they are not inflected for number or person. TİD too licenses null arguments. Following this classification, @sevinç2006 argued that although it is common in TİD to drop arguments, there were certain limitations on the null marking of the arguments for \textsc{agr} and \textsc{plain} verbs. 
+
+## Learning How to Track Referents in sign languages
+
+Deaf children of deaf parents have been observed to lag behind hearing age-matched peers at 4 years of age in terms of the organization of a narrative, but the general understanding is that they catch up within two years [@vercaingne-ménard2001]. In both communication modalities, children start to produce more complex and coherent stories with appropriate and informative linguistic forms to indicate anaphoric or cataphoric references after age 10 [@hickmann1996; @rathmann2007]. Prior to this age, both signing and speaking children fail to refer to entities consistently since their pragmatic abilities are yet to develop. The manipulation of linguistic forms for discourse functions to signal topic continuance or shift is difficult to master until the beginning of formal education. These findings are also comparable across different sign languages including British Sign Language (BSL) [@morgan2005], American Sign Language (ASL) [@loew1984], and German Sign Language (Deutsche Gebärdensprache - DGS) [@becker2009], pointing out to the fact that the mastery of reference tracking in narratives is one of the most protracted achievements in the acquisition of signed discourse.
+
+Given the preliminary evidence that topic continuity and salience marking is also difficult for second language learners regardless of modality [see @bel2015; @frederiksen2019 for sign languages; and @hickmann1999; @williams1988 for spoken languages], it has been suggested under the Interface Hypothesis that the syntax-discourse interface is vulnerable and especially challenging to acquire [@sorace2011]. Similarly, @sorace2009 discuss that this interface entails much more than morphosyntactic knowledge but also includes cognitive and pragmatic resources that help provide discourse coherence. They propose that the second language discourse is over-redundant. This means that second language learners produce more overt pronouns or fuller forms of language for highly accessible referents possibly as a compensatory strategy in an attempt to reduce the increasing load on cognitive processing.
+
+Still, only very few research examined whether linguistically deprived signers (i.e., deaf signers with delayed exposure to a sign language) also display redundancy in their reference tracking. @becker2009 examined DGS signing deaf native and late children's narrative abilities. She reported that late signing children generated more explicit forms such as nominals when referring to the characters in the story compared to native learners, concluding that first language deprivation results in an inadequate representation of the addressee and less efficient use of morphosyntax. Comparably, @cormier2013 investigated the use of constructed action in BSL among deaf native and late adult signers and found that late signers were redundant in topic continuity. In other words, the late signers produced more explicit forms like nominals, and fewer instances of null marking when maintaining previous referents.
+
+## Present Study
+
+In an attempt at addressing this gap in the literature, the present study aims to examine the reference tracking strategies among native and late deaf adult signers of TİD. Overall, considering what has been suggested for the distribution of REATs in signed narratives, we expect more explicit forms like nominals for referent introduction and and less explicit forms such as null marking, pronominal and/or classifier use for referent maintainance. For the re-introduction contexts, where referents which are discontinued across one or more clauses are brought back into the discourse, we expect a less clear picture. Some re-introduced referents will have higher accessibility and will thus be tracked with more implicit REATs, while others that have lower accessibility will be tracked with more explicit REATs. Also based on previous research, we hypothesize that late signers will become more over-redundant in their reference tracking compared to native signers. This would translate to a preference by late signers for nominals over null marking especially in maintenance and re-introduction contexts. In contrast, we would expect that native signers use more null marking to track referents.
+
+# Method
+
+## Participants
+
+We tested 29 deaf adult signers, 15 with exposure to TİD from birth (i.e., native signers), 14 with exposure between ages 3 and 17 (i.e., late signers) (*M*\textsubscript{Age of acquisition} = 7.7 years, *SD* = 3.3 years). All participants indicated that their preferred language of communication was TİD which they used for most contexts. Detailed information about the linguistic and educational background of the participants can be found in Appendix \ref{section:a}.
+
+All participating native signers (7 males, 8 females) were born into deaf families and started acquiring TİD from at least one of their caregivers after birth. The parents of 14 participating native signers were deaf. One native signer had a deaf father and a hearing mother. In addition to TİD, the home language for some native signers (n = 4) in early childhood included the use of home sign\footnote{Home signs are gesture-based communication systems that emerge between the deaf children and their primary caregivers. Although home sign communication may have internal consistency, they are not fully-flegged linguistic systems like natural languages}. The age of the native participants ranged between 18 and 35 (*M* = 26.4 years, *SD* = 5.0 years). This also corresponded to the total average years of TİD use for native signers. All native signers were pre-lingually deaf, that is they were either born deaf or they had become deaf before the age of 3, with the exception of one signer who became deaf between the ages of 4 and 7. Native signers reported to complete at least high school education and their level of education (LOE) was between 12 and 16 years (*M* = 12.7 years, *SD* = 1.5 years). In addition, all native participants attended at least two deaf schools, one being primary and the other middle school. 10 native participants also attended a deaf school for their high school education. Based on a self-reported 5-point scale of proficiency (1: poor, 5: proficient), native participants declared that they have high receptive and productive skills in TİD (*M* = 5 points, *SD* = 0 points). As for their proficiency in (spoken) Turkish, their self-reported rankings were on average 3.7 (*SD* = 0.7), 3.7 (*SD* = 0.7), and 2.6 (*SD* = 1.2) for reading, writing, and speaking abilities, respectively.
+
+Comparably, late learners (8 males, 6 females) were all born into hearing families and started learning TİD later in life after age 3, usually with the start of formal education. The age of sign language acquisition for late signers ranged between years 3-17 (*M* = 8.7 years, *SD* = 3.5 years). The parents of all participating late signers were hearing, and the reported home languages used in childhood mainly consisted of Turkish and home sign. The average age of late signers was 34.6 years (*SD* = 8 years) and ranged between 24 and 50. The derived mean number of years for TİD use following its acquisition was comparable to native signers with 25.9 years (*SD* = 7.9 years). Except for two signers who became deaf between the ages of 4 and 7, all the other late signers were pre-lingually deaf. All late signers completed middle school education and the average year of schooling was 12.3 years (*SD* = 2.8 years). All late participants attended at least one deaf school. While 8 participants attended two deaf schools (either primary and middle school, or middle and high school), 3 participants reported attend three deaf schools. Using the same scale, late signers self-rated their abilities in TİD and (spoken) Turkish. Both of their receptive and productive TİD abilities rated on average 4.9 points (*SD* = 0.3 points). Late signers' mean rating for their reading abilities in Turkish was 3.5 points (*SD* = 0.7 points) while their writing and speaking abilities rated on average 3.4 (*SD* = 0.5 points) and 3.1 points (*SD* = 0.7 points), respectively.
+
+Native and late participants' sex, average years of schooling, TİD use following its acquisition, and their self-reported receptive and productive TİD ratings, and their reading, writing, and speaking ratings for Turkish did not statistically differ; Bayesian *p*'s \> 0.1. However, participants' ages statistically differed between the two acquisition groups; *t*(27) = 3.4, Bayesian *p* \< 0.01. Overall, the native group consisted of younger participants. This was to ensure that the average years of TİD use among native signers approximated those of late signers.
+
+## Stimuli
+
+We used a story-telling paradigm to examine how native and late signers of TİD track reference in signed discourse. Participants were presented with 10 short video clips extracted from the cartoon *Tom and Jerry* and asked to retell them. Each clip had six to ten episodes (*M* = `r mean(c(6, 8, 8, 9, 9, 10, 8, 8, 7, 7))` episodes). The duration of the clips ranged from 17 seconds to 28 seconds (*M* = `r mean(c(19, 23, 28, 24, 22, 26, 17, 22, 23, 23))` seconds). The narratives included on average `r round(mean(c(2, 4, 2, 3, 2, 2, 3, 2, 2, 2)))` recurring animate characters for which the present context required the introduction, maintenance, and re-introduction of referents. In addition, in each narrative, there were on average `r round(mean(c(1, 1, 3, 2, 4, 4, 1, 3, 3, 3)))` inanimate objects with which the animate referents interacted. This allowed signers to switch from one perspective to another while narrating and also engage in multiple perspectives at the same time. The detailed description of the episodes in each narrative can be found in \ref{section:b}.
+
+```{r tab-2, echo=FALSE, message=FALSE, cache=FALSE, results='asis', warning=FALSE}
+library(magrittr)
+library(tidyverse)
+library(readr)
+library(kableExtra)
+library("papaja")
+library(stringr)
+options(scipen=1, digits=2)
+
+df_table_2 <- read.csv("./appendix/tables/table_tier.csv", sep = ";")
+apa_table(df_table_2,
+          caption ="Annotation Tiers with their Tags and Descriptions",
+          note = "NOM = nominal, PRO = pronominal, CL = classifier, NULL = null anaphora.",
+          escape = FALSE,
+          align = c("p{3.2cm}", rep("p{3.8cm}", ncol(df_table_2))),
+          placement = "p",
+          font_size = "footnotesize",
+          landscape = FALSE
+)
+```
+
+## Task Procedure
+
+Participants sat in front of a laptop computer which had the stimulus stories. The instructions were all given by a deaf research assistant who was present in all sessions and ensured that the task requirements were clear. The informed consent form was translated into TİD and explained to the participants by the same assistant before data recording. Participants filled in the consent form and a background questionnaire form before the onset of the trials. Following this step, signers were seated across a hearing experimenter who is a late learner of TİD. All trials were recorded by a digital camera placed in front of the signers. The participants were instructed to watch the narrative clip as many times as they needed, and narrate the content of each clip either to the experimenter or the recording digital camera.
+
+## Data Annotation
+
+We coded the discourse status (Introduction, Maintenance, Re-introduction), REAT type (Nominal, Pronominal, Classifier, Null), and perspectives (Character, Observer, Mixed), identifying 4523 reference markings in total. We used ELAN Linguistic Annotation Software [@crasborn2008] for data annotation. First Author who is a hearing signer of TİD annotated all the data.
+
+Following @berman2013relating, we first identified the clause boundaries in each sentence indicated by the presence of predicates and informative non-manual markers (e.g., head nod). On the second tier, we coded the discourse status for each referent. Having adapted the classification of @gullberg2006, we considered all referents mentioned for the first time as introduced regardless of their syntactic function in the sentence. Only subjects were coded for maintenance and re-introduction. We coded subject referents as maintained only if they had been signed in the previous clause. To this end, the referents which had been discontinued across one or more sentences were all regarded re-introduced into the discourse. On a third tier, we had the REAT type for a single reference with the main categories nominal, pronominal, null marking, and classifier. Under nominal, we identified bare nouns \textsc{bare nom}, modified nouns \textsc{mod nom}, and fingerspelled nouns \textsc{fs nom}. For classifiers, we distinguished among three types of constructions: \textsc{wecl}, \textsc{bpcl}, and \textsc{extcl}. Finally, we had \textsc{ca}, \textsc{agr}, \textsc{plain} tags for null constructions. We were unable to observe any instance of \textsc{hcl}s occurring in isolation (i.e., not part of constructed action). The annotation tiers are presented in Table \ref{tab:tab-2}.
+
+# Results
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, cache=FALSE, results='asis'}
+# generic libraries
+library(readxl) #read excel
+library(gdata) # reorder.factor
+library(magrittr) # pipe
+library(tidyverse) # tidy
+theme_set(theme_bw()) #set ggplot theme
+library(extrafont)
+loadfonts()
+
+# statistics libraries
+library(brms) # bayesian modeling
+library(bayesplot) # plot options for bayesian models
+bayesplot_theme_set(new = theme_bw()) # set plot theme
+library(tidybayes)
+library(bayestestR)
+
+theme_apa <- function(base_size = 10, base_family = "serif", box = FALSE) {
+  adapted_theme <- ggplot2::theme_bw(base_size, base_family) +
+    ggplot2::theme(legend.position = "bottom",
+      plot.title = ggplot2::element_text(size = ggplot2::rel(1.1), margin = ggplot2::margin(0, 0, ggplot2::rel(14), 0))
+      # , axis.title = ggplot2::element_text(size = ggplot2::rel(1.1))
+      , axis.title.x = ggplot2::element_text(size = ggplot2::rel(1), lineheight = ggplot2::rel(1.1), margin = ggplot2::margin(ggplot2::rel(12), 0, 0, 0))
+      , axis.title.y = ggplot2::element_text(size = ggplot2::rel(1), lineheight = ggplot2::rel(1.1), margin = ggplot2::margin(0, ggplot2::rel(12), 0, 0))
+      , axis.title.y.right = ggplot2::element_text(size = ggplot2::rel(1), lineheight = ggplot2::rel(1.1), margin = ggplot2::margin(0, 0, 0, ggplot2::rel(12)))
+      , axis.ticks.length = ggplot2::unit(ggplot2::rel(6), "points")
+      , axis.text = ggplot2::element_text(size = ggplot2::rel(0.9))
+      , axis.text.x = ggplot2::element_text(size = ggplot2::rel(1), margin = ggplot2::margin(ggplot2::rel(6), 0, 0, 0))
+      , axis.text.y = ggplot2::element_text(size = ggplot2::rel(1), margin = ggplot2::margin(0, ggplot2::rel(6), 0, 0))
+      , axis.text.y.right = ggplot2::element_text(size = ggplot2::rel(1), margin = ggplot2::margin(0, 0, 0, ggplot2::rel(6)))
+      , axis.line = ggplot2::element_line()
+      # , axis.line.x = ggplot2::element_line()
+      # , axis.line.y = ggplot2::element_line()
+      , legend.title = ggplot2::element_text()
+      , legend.key = ggplot2::element_rect(fill = NA, color = NA)
+      , legend.key.width = ggplot2::unit(ggplot2::rel(20), "points")
+      , legend.key.height = ggplot2::unit(ggplot2::rel(20), "points")
+      , legend.margin = ggplot2::margin(
+        t = ggplot2::rel(16)
+        , r = ggplot2::rel(16)
+        , b = ggplot2::rel(16)
+        , l = ggplot2::rel(16)
+        , unit = "points"
+      )
+      , panel.spacing = ggplot2::unit(ggplot2::rel(14), "points")
+      , panel.grid.major.x = ggplot2::element_blank()
+      , panel.grid.minor.x = ggplot2::element_blank()
+      , panel.grid.major.y = ggplot2::element_blank()
+      , panel.grid.minor.y = ggplot2::element_blank()
+      , strip.background = ggplot2::element_rect(fill = NA, color = NA)
+      , strip.text.x = ggplot2::element_text(size = ggplot2::rel(1.2), margin = ggplot2::margin(0, 0, ggplot2::rel(10), 0))
+      , strip.text.y = ggplot2::element_text(size = ggplot2::rel(1.2), margin = ggplot2::margin(0, 0, 0, ggplot2::rel(10)))
+    )
+  if(box) {
+    adapted_theme <- adapted_theme + ggplot2::theme(panel.border = ggplot2::element_rect(color = "black"))
+  } else {
+    adapted_theme <- adapted_theme + ggplot2::theme(panel.border = ggplot2::element_blank())
+  }
+  adapted_theme
+}
+
+
+# Read df and drop NAs
+df_narration <- read.csv("data/narration_data.csv", sep = ";") %>% drop_na()
+
+# Coding nominal, Zero, Classifier, and Pronominal categories
+df_narration$ref_type <- with(df_narration, case_when(
+  GTR1 %in% c("Bare noun", "Point noun", "Noun Point",
+              "Fingerspelled noun", "CL noun", "Noun CL") ~ "Nominal",
+  GTR1 %in% c("Constructed action", "Constructed Action", "Plain verb", "Person agreement verb") ~ "Null",
+  GTR1 %in%  c("Whole entity CL", "Body part CL",
+               "SASS - Tracing", "SASS - Static") ~ "Classifier",
+  T ~ "Pronominal"))
+
+# Coding nominal, Zero, Classifier, and Pronominal categories
+df_narration$GTR1_plot <- with(df_narration, case_when(
+  GTR1 %in% c("Bare noun") ~ "BARE NOM",
+  GTR1 %in% c("Point noun", "Noun Point","CL noun", "Noun CL") ~ "M NOM",
+  GTR1 %in% c("Point noun", "Noun Point","CL noun", "Noun CL") ~ "FS NOM",
+  GTR1 %in% c("Constructed action", "Constructed Action") ~ "CA",
+  GTR1 %in% c("Plain verb") ~ "PLAIN",
+  GTR1 %in% c("Person agreement verb") ~ "AGR",
+  GTR1 %in% c("Whole entity CL") ~ "WECL",
+  GTR1 %in%  c("Body part CL")  ~ "BPCL",
+  GTR1 %in%  c("SASS - Tracing", "SASS - Static")  ~ "SASS",
+  T ~ "Pronominal"))
+  
+# Encode vector types
+df_narration$Narrative %<>% as.integer() 
+df_narration$Subject %<>% as.integer()
+df_narration$GTR1 %<>% as.factor() 
+df_narration$Nativeness %<>% dplyr::recode(`0` = "Late", `1` = "Native") %>% as.factor() %>% reorder.factor(new.order = c("Native","Late"))
+df_narration$Discourse %<>% as.factor()
+df_narration$ref_type %<>% as.factor()
+
+# Summary of the data
+summary_df <- df_narration %>% 
+  group_by(ref_type, GTR1) %>% 
+  summarise(Count = n()) %>% 
+  mutate(Percentage = formattable::percent(Count/sum(Count))) %>% 
+  arrange(desc(Percentage))
+
+# Descriptive plots
+df_narration$ref_type2 <- df_narration$ref_type %>% recode('Classifier' = 'CL', 'Null' = 'NULL',
+                                                           'Pronominal' = 'PRO', 'Nominal' = 'NOM')
+
+# Contrast coding
+contrasts(df_narration$Nativeness) <- contr.sum(2)/2
+contrasts(df_narration$Discourse) <- contr.sum(3)/2
+
+# dropping Pronominal references because they are too few.
+df_model1 <- df_narration %>% subset(ref_type !="Pronominal") %>% drop.levels()
+
+# Contrast coding
+df_model1$Nativeness %<>% reorder.factor(new.order = c("Native","Late"))
+contrasts(df_model1$Nativeness) <- contr.sum(2)/2
+contrasts(df_model1$Discourse) <- contr.sum(3)/2
+
+
+# counts of ref types
+ref_count <- df_narration %>% group_by(ref_type) %>% summarise(count=n())
+
+# Model for reference type
+model_1 <- brm(ref_type ~ Nativeness*Discourse + (1|Subject), 
+               data = df_model1, family = categorical(link = "logit"), 
+               iter = 3000, warmup = 2000, chains = 4, cores = 4, file ="./rds/model_1.rds")
+
+# Posterior plot for reference type
+df_model_1 <- mcmc_intervals_data(model_1, pars = vars(starts_with("b_")))
+df_model_1$parameter %<>% dplyr::recode(`b_muNominal_Intercept` = "Nom_Intercept",
+                                        `b_muNull_Intercept` = "Null_Intercept",
+                                        `b_muNominal_Nativeness1` = "Nom_Native",
+                                        `b_muNull_Nativeness1` = "Null_Native",
+                                        `b_muNominal_Discourse1` = "Nom_Intro",
+                                        `b_muNominal_Discourse2` = "Nom_Maintain",
+                                        'b_muNominal_Nativeness1:Discourse1' = 'Nom_Native*Intro',
+                                        'b_muNominal_Nativeness1:Discourse2' = 'Nom_Native*Maintain',
+                                        'b_muNull_Nativeness1:Discourse1' = 'Null_Native*Intro',
+                                        'b_muNull_Nativeness1:Discourse2' = 'Null_Native*Maintain',
+                                        `b_muNull_Discourse1` = "Null_Intro",
+                                        `b_muNull_Discourse2` = "Null_Maintain")
+saveRDS(df_model_1, "./rds/df_model_1.rds")
+```
+
+## REAT Type
+
+We collected `r nrow(df_narration)` data points as a result of the experiment. Each data point is a referent tracked by the participant. Each of the REATs is classified in terms of its Discourse Status (Introduction, Maintenance, Re-introduction), its Type (Nominal, Pronominal, Classifer Null)\footnote{In our statistical analyses, we will not consider the subtypes of REATs but rather group them by the four proposed main types (Nominal, Pronominal, Classifer Null). However, we allude to the numerical distribution of the subtypes in this and following sections}, and Participant Group (Native, Late)\footnote{Similarly, we treat late signers as a single group in our analyses and disregard the differing age of acquisition intervals among the late signers (0-3, 4-7, 8-12, 13-17). Treating age of acquisition as a continous variable would not be informative due to the small sample size in each interval.}. Figure 1 shows the numerical distribution of the responses according to the aforementioned variables.
+
+Across our acquisition groups, we observed `r sum(df_narration$Discourse == "Introduction")` (`r sum(df_narration$Discourse == "Introduction")/nrow(df_narration)`) instances of referent introduction, `r sum(df_narration$Discourse == "Maintenance")` (`r sum(df_narration$Discourse == "Maintenance")/nrow(df_narration)`) instances of referent maintenance, and `r sum(df_narration$Discourse == "Re-introduction")` (`r sum(df_narration$Discourse == "Re-introduction")/nrow(df_narration)`) instances of referent re-introduction. For the introduction of a referent, the majority of the REATs were nominal constructions (`r round(sum(df_narration$GTR1_CAT == "Nominal" & df_narration$Discourse == "Introduction") / sum(df_narration$Discourse == "Introduction"),digits=3)`). However, we observed a sporadic use of classifiers (`r round(sum(df_narration$GTR1_CAT == "Classifier" & df_narration$Discourse == "Introduction") / sum(df_narration$Discourse == "Introduction"),digits=3)`), and null marking (`r round(sum(df_narration$GTR1_CAT == "Zero Anaphor" & df_narration$Discourse == "Introduction") / sum(df_narration$Discourse == "Introduction"),digits=3)`) respectively. When the discourse status was maintained, signers extensively used null markers (`r round(sum(df_narration$GTR1_CAT == "Zero Anaphor" & df_narration$Discourse == "Maintenance") / sum(df_narration$Discourse == "Maintenance"),digits=3)`). to refer to the entities in the immediately previous clause. Classifier constructions (`r round(sum(df_narration$GTR1_CAT == "Classifier" & df_narration$Discourse == "Maintenance") / sum(df_narration$Discourse == "Maintenance"),digits=3)`) followed null markers in maintained contexts. We observed only a few instances of nominal use (`r round(sum(df_narration$GTR1_CAT == "Nominal" & df_narration$Discourse == "Maintenance") / sum(df_narration$Discourse == "Maintenance"),digits=3)`) for referent maintenance. In re-introduction contexts, signers used a greater proportion of nominal markings (`r round(sum(df_narration$GTR1_CAT == "Nominal" & df_narration$Discourse == "Re-introduction") / sum(df_narration$Discourse == "Re-introduction"),digits=3)`) which were followed by null (`r round(sum(df_narration$GTR1_CAT == "Zero Anaphor" & df_narration$Discourse == "Re-introduction") / sum(df_narration$Discourse == "Re-introduction"),digits=3)`), classifier (`r round(sum(df_narration$GTR1_CAT == "Classifier" & df_narration$Discourse == "Re-introduction") / sum(df_narration$Discourse == "Re-introduction"),digits=3)`), and pronominal use (`r round(sum(df_narration$GTR1_CAT == "Pronominal" & df_narration$Discourse == "Re-introduction") / sum(df_narration$Discourse == "Re-introduction"),digits=3)`).
+
+For all discourse statuses, the most numerous nominal type was \textsc{bare nom} (`r sum(df_narration$GTR1 == "Bare noun") / sum(df_narration$ref_type == "Nominal")`) which was followed by nouns modified by \textsc{ix} (`r (sum(df_narration$GTR1 == "Point noun") + sum(df_narration$GTR1 == "Noun Point")) / sum(df_narration$ref_type == "Nominal")`), and nouns modified by classifiers (`r (sum(df_narration$GTR1 == "CL noun") + sum(df_narration$GTR1 == "Noun CL")) / sum(df_narration$ref_type == "Nominal")`). In number, signers used \textsc{mod nom} more in introduction (`r ((sum(df_narration$GTR1 == "Point noun" & df_narration$Discourse == "Introduction") + sum(df_narration$GTR1 == "Noun Point" & df_narration$Discourse == "Introduction") + sum(df_narration$GTR1 == "CL noun" & df_narration$Discourse == "Introduction") + sum(df_narration$GTR1 == "Noun CL" & df_narration$Discourse == "Introduction")) ) / sum(df_narration$ref_type == "Nominal" & df_narration$Discourse == "Introduction")`) and re-introduction (`r ((sum(df_narration$GTR1 == "Point noun" & df_narration$Discourse == "Re-introduction") + sum(df_narration$GTR1 == "Noun Point" & df_narration$Discourse == "Re-introduction") + sum(df_narration$GTR1 == "CL noun" & df_narration$Discourse == "Re-introduction") + sum(df_narration$GTR1 == "Noun CL" & df_narration$Discourse == "Re-introduction")) ) / sum(df_narration$ref_type == "Nominal" & df_narration$Discourse == "Re-introduction")`) compared to maintenance settings (`r ((sum(df_narration$GTR1 == "Point noun" & df_narration$Discourse == "Maintenance") + sum(df_narration$GTR1 == "Noun Point" & df_narration$Discourse == "Maintenance") + sum(df_narration$GTR1 == "CL noun" & df_narration$Discourse == "Maintenance") + sum(df_narration$GTR1 == "Noun CL" & df_narration$Discourse == "Maintenance")) ) / sum(df_narration$ref_type == "Nominal" & df_narration$Discourse == "Maintenance")`). Among the null markers, \textsc{ca} was most frequently employed with a proportion of (`r sum(df_narration$GTR1_plot == "CA") / sum(df_narration$ref_type == "Null")`), and it was followed by \textsc{plain} verbs (`r sum(df_narration$GTR1_plot == "PLAIN") / sum(df_narration$ref_type == "Null")`) and \textsc{agr} verbs (`r sum(df_narration$GTR1_plot == "AGR") / sum(df_narration$ref_type == "Null")`). Overall, signers used very few null markings for the introduction of a referent and the majority of the existing ones were \textsc{ca} (`r sum(df_narration$GTR1_plot == "CA" & df_narration$Discourse == "Introduction") / sum(df_narration$ref_type == "Null" & df_narration$Discourse == "Introduction")`). Additionally, signers used \textsc{ca} more for referent re-introduction (`r sum(df_narration$GTR1_plot == "CA" & df_narration$Discourse == "Re-introduction") / sum(df_narration$ref_type == "Null" & df_narration$Discourse == "Re-introduction")`) than maintenance (`r sum(df_narration$GTR1_plot == "CA" & df_narration$Discourse == "Maintenance") / sum(df_narration$ref_type == "Null" & df_narration$Discourse == "Maintenance")`). We observed a similar instances of \textsc{agr} verbs for maintained (`r sum(df_narration$GTR1_plot == "AGR" & df_narration$Discourse == "Maintenance") / sum(df_narration$ref_type == "Null" & df_narration$Discourse == "Maintenance")`) and re-introduced contexts (`r sum(df_narration$GTR1_plot == "AGR" & df_narration$Discourse == "Re-introduction") / sum(df_narration$ref_type == "Null" & df_narration$Discourse == "Re-introduction")`). In contrast, \textsc{plain} verbs were favored more in the maintenance setting (`r sum(df_narration$GTR1_plot == "PLAIN" & df_narration$Discourse == "Maintenance") / sum(df_narration$ref_type == "Null" & df_narration$Discourse == "Maintenance")`) than re-introduction (`r sum(df_narration$GTR1_plot == "PLAIN" & df_narration$Discourse == "Re-introduction") / sum(df_narration$ref_type == "Null" & df_narration$Discourse == "Re-introduction")`). As for the classifier constructions, \textsc{wecl} was the most common type (`r sum(df_narration$GTR1_plot == "WECL") / sum(df_narration$ref_type == "Classifier")`), followed by \textsc{bpcl} (`r sum(df_narration$GTR1_plot == "BPCL") / sum(df_narration$ref_type == "Classifier")`) and \textsc{extcl} (`r sum(df_narration$GTR1_plot == "SASS") / sum(df_narration$ref_type == "Classifier")`). For the first mention of a referent, signers mostly preferred to use \textsc{extcl} (`r sum(df_narration$GTR1_plot == "SASS" & df_narration$Discourse == "Introduction") / sum(df_narration$ref_type == "Classifier" & df_narration$Discourse == "Introduction")`). However, for referent maintenance and re-introduction \textsc{wecl} (`r sum(df_narration$GTR1_plot == "WECL" & df_narration$Discourse == "Maintenance") / sum(df_narration$ref_type == "Classifier" & df_narration$Discourse == "Maintenance")` and `r sum(df_narration$GTR1_plot == "WECL" & df_narration$Discourse == "Re-introduction") / sum(df_narration$ref_type == "Classifier" & df_narration$Discourse == "Re-introduction")` respectively) was used more compared to \textsc{bpcl} (`r sum(df_narration$GTR1_plot == "BPCL" & df_narration$Discourse == "Maintenance") / sum(df_narration$ref_type == "Classifier" & df_narration$Discourse == "Maintenance")` and `r sum(df_narration$GTR1_plot == "BPCL" & df_narration$Discourse == "Re-introduction") / sum(df_narration$ref_type == "Classifier" & df_narration$Discourse == "Re-introduction")` respectively) and \textsc{extcl} (`r sum(df_narration$GTR1_plot == "SASS" & df_narration$Discourse == "Maintenance") / sum(df_narration$ref_type == "Classifier" & df_narration$Discourse == "Maintenance")` and `r sum(df_narration$GTR1_plot == "SASS" & df_narration$Discourse == "Re-introduction") / sum(df_narration$ref_type == "Classifier" & df_narration$Discourse == "Re-introduction")` respectively).
+
+Across the discourse statuses, there is also a noticeable difference between participant groups in the use of null marking for reference tracking. Native signers of TİD used it more (`r round(sum(df_narration$GTR1_CAT == "Zero Anaphor" & df_narration$Nativeness == "Native") / nrow(df_narration), digits=2)`) compared to the late signers (`r round(sum(df_narration$GTR1_CAT == "Zero Anaphor" & df_narration$Nativeness == "Late") / nrow(df_narration), digits=2)`). Comparably, late signers used nominals more frequently (`r round(sum(df_narration$GTR1_CAT == "Nominal" & df_narration$Nativeness == "Late") / nrow(df_narration), digits=2)`) than native signers (`r round(sum(df_narration$GTR1_CAT == "Nominal" & df_narration$Nativeness == "Native") / nrow(df_narration), digits=2)`).
+
+```{r fig:count-plot, echo=FALSE, message=FALSE, cache=FALSE, results='asis', warnings=FALSE, fig.width=4.75, fig.height=3.5, fig.pos="hbt!",fig.cap="Referent counts by Discourse Status (Introduction, Maintanence, Re-introduction), REAT Type (Nominal, Pronominal, Classifier, Null), and Participant Group (Native, Late)"}
+df_narration$ref_type2 <- factor(df_narration$ref_type2,levels = c("NOM", "PRO", "CL", "NULL"))
+
+p1 <- df_narration %>%
+  select(Nativeness, ref_type2, Discourse) %>%
+  group_by(Nativeness, Discourse) %>%
+  ggplot(aes(ref_type2, fill = Nativeness)) + geom_bar(position = "dodge") +
+  stat_count(geom = "text", aes(color = Nativeness, label = ..count..), vjust = 0,
+             position = position_dodge(width = 0.85), size = 2) +
+  facet_grid(~Discourse) + ylab("Count") + xlab("REATs") +
+  scale_color_grey() +
+  scale_fill_grey() +
+  theme_apa() 
+p1
+```
+
+For more inference on the data and having pairwise comparisons, we fit a regression model to REAT Type using Discourse Status and Group as predictors. We used the brms package [@bürkner2018] in R, with a categorical distribution on the responses and sum contrasts for the predictors Discourse Status (Introduction, Maintenance, Re-introduction) and Participant Group (Native, Late). As the overall number of produced pronouns was very little (40 data points), we excluded pronominal use from the following analyses. For the current analysis, we did not define priors ourselves but used the preset uninformed priors. Figure 2 shows the posterior probability distributions where the dot is the median estimate, the thick line is the 50% credible intervals, and the thin line is the 95% credible intervals.
+
+```{r fig:model-gram, fig.cap="Regression model plot for the REAT Type (Nominal, Null) with the predictors Discourse Status (Introduction, Maintenance, Re-introduction) and Participant Group (Native, Late)", fig.height=2.5, fig.pos="hbt!", fig.width=4, echo=FALSE, message=FALSE, cache=FALSE, results='asis', warnings=FALSE}
+p3 <- df_model_1 %>% 
+  ggplot(aes(m, y=factor(parameter,levels = rev(levels(factor(parameter)))))) +
+  geom_point(size = 2.5) +
+  geom_errorbarh(aes(xmin = l, xmax = h), alpha = 1, height = 0, size = 1.5) +
+  geom_errorbarh(aes(xmin = ll, xmax = hh, height = 0)) + vline_0(linetype = "dashed") +
+  xlab("Estimate (log odds)") + ylab("Coefficients") + theme_bw() + theme_apa()
+p3
+```
+
+In a categorical distribution, the model takes one of the responses as a reference and compares all other responses to it. For example, the first coefficient, nominal intercept, in Figure 2 is the comparison of a nominal versus a classifier. It means that participants produced more nominals than classifiers in general regardless of participant group and discourse status. The second coefficient shows that null markings were also used more than classifiers by the participants in general, but not as much as nominals.
+
+In the comparison of nominals and classifiers, being a native acquirer of TİD did not have an effect. Nominals were used more when the discourse status was introduction compared to re-introduction. Again, the whole comparison is made against a classifier. In contrast to the introduction status, nominals were used less in maintenance contexts compared to the re-introduction contexts, within the greater comparison to classifier referents. There does not seem to be an interaction between the introduction status of discourse and being a native acquirer of TİD; however, there seems like an interaction between maintaining a referent and being a native acquirer of TİD. In that, native signers produced fewer nominal referents than late signers while maintaining referents compared to the other combinations.
+
+Compared to classifiers, being a native acquirer of TİD increased the odds of using null marking in general. Null constructions were used less in introduction contexts than in re-introduction. This contrasts with the nominals (4th coefficient) as they were used more in referent introduction versus re-introduction. In contrast to introduction contexts, null markers were used more in referent maintenance compared to re-introduction, yet again within the greater comparison to the classifiers. There seems to be an interaction between introducing a referent and being a native acquirer of TİD. In that, the odds of using null marking further increases if the participant is a native acquirer of TİD and the referent is used in introduction contexts. There is another interaction with regards to referent maintenance, contrasting the first interaction. In that, the odds of using null markers decrease if the participant is a native acquirer of TİD and the referent is maintained.
+
+# General Discussion
+
+In our study, we aimed to examine the reference tracking strategies of native and late deaf adult signers in TİD narratives. To this end, we investigated the distribution of REATs that the signers select when employing referents in different discourse statuses. The results of the present study partly support our hypotheses. In line with our expectations, (i) signers mainly used explicit markers (e.g., nominals) to introduce a referent into the discourse, (ii) used non-explicit markers (e.g., null marking and classifiers) for maintained contexts, and (iii) employed both types of markers (explicit and implicit) to re-introduce a referent. However, the proportion of the observed discourse statuses (26% for introduction, 40% for maintenance, 34% for re-introduction across acquisition groups) in this study differed from that of some other studies. For a comparison, while the percentage of introduced referents were similar in both research (26% versus 24%), the participants in the present study brought back referents into the discourse more frequently compared to the participants in @frederiksen2019 and @frederiksen2016 which reported that re-introduction contexts accounted for only 7% of the referents in ASL. On the other hand, maintenance percentages were lower in the present study compared to @frederiksen2016 (40% versus 69%). Investigating the distribution of REATs across discourse statuses in ASL, a similar study by @czubek2017 also reported contrasting numbers (17% for introduction, 64% for maintenance, and 19% for re-introduction). We suggest that the discrepancy might be due to the nature of the stimuli used in these research. In @frederiksen2016, the authors used one 6-episode-long picture story with 2 animate characters and 1 inanimate object. In contrast, the stimuli in the present study consisted of 8-episode-long video clips on average with a mean number of 2 animate characters and 3 inanimate objects. Although the number of animate characters and inanimate characters in @czubek2017's stimuli matched that of the present study, their narrative structure (a 6-episode-long picture story) was still shorter compared to our narrative stimuli. We believe fewer possible referents and/or a simpler narrative structure in these studies may have contributed to the lower number of re-introduced contexts compared to the present study.
+
+As for the distribution of REATs across different discourses statuses, we observed that signers overwhelmingly preferred to use nominals over other REATs for the first mention of a referent and used null markers such as \textsc{ca}, and \textsc{agr} and \textsc{plain} verb for referents with high accessibility (i.e., when the discourse status was maintained). This finding parallels other accounts of referential accessibility suggested for other sign languages [see @frederiksen2019; @czubek2017; and @swabey2002; for ASL, @morgan2005; for BSL @bel2015; and @barberà2009 for Catalan Sign Language (Llengua de Signes Catalana - LSC)]. Our results also indicate that modified nouns (e.g., nouns that are preceded or followed by a classifier or IX) appeared more in introduced contexts (`r sum(df_narration$GTR1_plot == "M NOM" & df_narration$Discourse == "Introduction") / sum(df_narration$Discourse == "Introduction")`) compared to re-introduced contexts (`r sum(df_narration$GTR1_plot == "M NOM" & df_narration$Discourse == "Re-introduction") / sum(df_narration$Discourse == "Re-introduction")`). This brings along the assumption that modified nouns are used more to track referents with lower accessibility, probably due to their more explicit structure. Interestingly, the signers in this study used pronominal IX very sporadically with only 40 observed instances which were mainly used to re-introduce referents rather than maintain them. This finding is comparable with what has been reported for ASL [@swabey2002; @frederiksen2019] but not with LSC [@bel2015], BSL[@morgan2005] and DGS [@perniss2015], in which the signers extensively made overt pronominal references (up to 30%) to maintain entities. Like in @frederiksen2019, our findings indicate that the pronominal \textsc{ix} was used more concurrently with nominal constructions (`r (sum(df_narration$GTR1 == "Point noun") + sum(df_narration$GTR1 == "Noun Point"))`). In contrast, pronominal \textsc{ix} was used very infrequently in isolation. We then suggest that overt pronouns in this data are dispreferred in favor of other markers for highly accessible referents such as null marking and classifiers [@wulf2002].
+
+A deeper look into the allocation of classifier constructions revealed that \textsc{wecl}s were the most common type of classifiers for the maintenance of a referent followed by \textsc{bpcl}s and \textsc{extcl}s. We observed a similar alignment for re-introduced contexts. In contrast, a great number of the overall \textsc{extcl}s were used to introduce a new referent into the discourse. That is to say, whereas \textsc{wecl}s were the preferred classifier types to signal highly accessible referents, \textsc{extcl}s constructions were mainly used for referents which were not easily accessible. We suggest that the less iconic and transparent nature of \textsc{wecl}s allowed signers to continue a previous referent without being redundant. As pointed out by @czubek2017, signers prefer to rely on \textsc{extcl}s for the first mention of an entity because these constructions are informative and explicit by nature, and they provide visual and descriptive cues about an entity and its location in space. Nevertheless, we only observed `r sum(df_narration$GTR1_plot == "SASS" & df_narration$Discourse == "Re-introduction")` instances of \textsc{extcl}s for re-introduced contexts, replicating @frederiksen2019's findings for ASL. The sporadic use of these markers for re-introduction is counter-intuitive given that an \textsc{extcl}s is argued to be akin to other nominal constructions [@mckee2011]. This finding has encouraged us to examine their distribution more closely. Revisiting the data, we have been able to make a distinction between static \textsc{extcl}s and tracing \textsc{extcl}s. @zwitserlood2012 has argued that while the former type of classifiers have referential power (i.e., used to refer to entities), the latter lacks this property and has instead an adjectival function (i.e. used for modification). Following from this, we have identified `r sum(df_narration$GTR1 == "SASS - Static" & df_narration$Discourse == "Introduction")` instances of static \textsc{extcl}s and `r sum(df_narration$GTR1 == "SASS - Tracing" & df_narration$Discourse == "Introduction")` instances of tracing \textsc{extcl}s for referent introduction. Furthermore, signers only used static \textsc{extcl}s for maintained contexts (`r sum(df_narration$GTR1 == "SASS - Static" & df_narration$Discourse == "Introduction")` instances). On a similar ground, when the discourse status was re-introduced, only observed tokens were instances of static \textsc{extcl}s. This brings along the implication that tracing \textsc{extcl}s function like a nominal in that it is only used for introduction contexts. In contrast, static \textsc{extcl}s act similarly to other types of classifiers with respect to referential accessibility (i.e., mainly used for referent maintenance). As for the distribution of the null markers, approximately 90% of the \textsc{plain} verbs were used to maintain a previous referent, making these constructions least implicit REATs used for TİD. \textsc{agr} verbs and \textsc{ca} were the following implicit markers of reference, `r sum(df_narration$GTR1 == "Person agreement verb" & df_narration$Discourse == "Maintenance") / sum(df_narration$GTR1 == "Person agreement verb")` and `r sum(df_narration$GTR1_plot == "CA" & df_narration$Discourse == "Maintenance") / sum(df_narration$GTR1_plot == "CA")` of which were used for maintained contexts respectively. This contrasts with some of the research [@czubek2017] in which \textsc{agr} verbs ranked lowest on scale, indicating that these constructions were more implicit compared to \textsc{plain} verbs. However, there seems to be a common ground for the position of \textsc{ca} markers which have been claimed to rank higher than other null markers as in the present study [@frederiksen2016; @czubek2017; @barberà2009]. In Figure \ref{fig:scale}, we report the distribution of REATs in TİD as a function of accessibility.
+
+```{=tex}
+\begin{figure}
+\caption{Distribution of REATs as a function of accessibility suggested for TİD}
+\label{fig:scale}
+\tikzset{every picture/.style={line width=0.75pt}} %set default line width to 0.75pt        
+
+\begin{tikzpicture}[x=0.75pt,y=0.75pt,yscale=-1,xscale=1]
+%uncomment if require: \path (0,270); %set diagram left start at 0, and has height of 270
+
+%Straight Lines [id:da19719799699706264] 
+\draw [fill={rgb, 255:red, 175; green, 40; blue, 40 }  ,fill opacity=1 ][line width=1.5]    (114.9,108.91) -- (135.9,108.91) -- (253.78,108.53) -- (495.74,108.99) (164.88,102.31) -- (164.92,115.31)(214.88,102.16) -- (214.92,115.16)(264.91,102.06) -- (264.89,115.06)(314.91,102.15) -- (314.89,115.15)(364.91,102.24) -- (364.89,115.24)(414.91,102.34) -- (414.89,115.34)(464.91,102.43) -- (464.89,115.43) ;
+\draw [shift={(499.74,109)}, rotate = 180.11] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (12.77,-6.13) -- (0,0) -- (12.77,6.13) -- cycle    ;
+\draw [shift={(110.9,108.91)}, rotate = 0] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (12.77,-6.13) -- (0,0) -- (12.77,6.13) -- cycle    ;
+
+% Text Node
+\draw (498,100) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{High}};
+% Text Node
+\draw (81,100) node [anchor=north west][inner sep=0.75pt]   [align=left] {\textbf{Low}};
+% Text Node
+\draw (150,88) node [anchor=north west][inner sep=0.75pt]  [font=\fontsize{0.83em}{1em}\selectfont] [align=left] {{\scriptsize M NOM}};
+% Text Node
+\draw (191,88) node [anchor=north west][inner sep=0.75pt]  [font=\fontsize{0.83em}{1em}\selectfont] [align=left] {{\scriptsize BARE NOM}};
+% Text Node
+\draw (250,88) node [anchor=north west][inner sep=0.75pt]  [font=\fontsize{0.83em}{1em}\selectfont] [align=left] {{\scriptsize EXTCL}};
+% Text Node
+\draw (285,88) node [anchor=north west][inner sep=0.75pt]  [font=\fontsize{0.83em}{1em}\selectfont] [align=left] {{\scriptsize WECL \& BPCL}};
+% Text Node
+\draw (359,88) node [anchor=north west][inner sep=0.75pt]  [font=\fontsize{0.83em}{1em}\selectfont] [align=left] {{\scriptsize CA}};
+% Text Node
+\draw (405,88) node [anchor=north west][inner sep=0.75pt]  [font=\fontsize{0.83em}{1em}\selectfont] [align=left] {{\scriptsize AGR}};
+% Text Node
+\draw (452,88) node [anchor=north west][inner sep=0.75pt]  [font=\fontsize{0.83em}{1em}\selectfont] [align=left] {{\scriptsize PLAIN}};
+\end{tikzpicture}
+\end{figure}
+```
+The results in this study only partially support our second set of hypotheses that we set for the effects of age of acquisition on participants' REAT selection. That is, while being a native acquirer of TİD increased the odds of using null marking in reference tracking, across different discourse statuses, we failed to find such a difference for overall nominal production. Taking a closer look at the interaction terms, we observed that native signers, compared to late signers, were less likely to use nominal constructions when the discourse status was maintained. Native acquisition further increased the odds of null REATs when the discourse status was introduced. However, we found the opposite alignment for the interaction of maintenance and native acquisition. That is, the coefficient for this interaction term slightly decreased the combined main effects of having a maintained context and being a native signer. This means that these main effects were greater than the interaction or added effects, pointing out to the implication that the type of discourse status (introduced, maintained, re-introduced) accounts for the distribution of REATs in TİD narratives better than age of acquisition (native, late) which, in comparison, had a less salient effect.
+
+While late signers were only partially over-redundant in maintained contexts, they were more so in introduced contexts. In line with our study, a tendency for limited over-redundancy has been suggested for late signers of DGS [@becker2009] and second language learners of ASL [@frederiksen2019] and LSC [@bel2015]. However, the finding that native signers preferred to use implicit markers even for the first mention of a referent (`r sum(df_narration$ref_type == "Null" & df_narration$Discourse == "Introduction")` in total) is surprising given some of the previous literature in the topicality and saliency framework [@cormier2013; @swabey2002]. These research reported very little or no use of null marking by native signers for introduced contexts. Yet, or study replicated the findings of another line of research that investigated deaf or hearing bimodal bilingual signers [@bel2015; @reynolds2018]. The authors reported that more instances of null marking in the context of referent introduction was attested for native signers than deaf or hearing bimodal bilingual signers. Although using null marking to introduce a referent into the discourse would normally result in referential ambiguity, it is important to note that our stimuli consisted of 10 interconnected narratives with 2 or more recurring characters. It may be possible that native signers, having already introduced the referent with an explicit nominal marker in a different discourse context, found it felicitous to refer to the same entity with more implicit markers in the following narratives even for introduced contexts. Then, our results imply a difference in pragmatic sensitivity to referential accessibility between native and late signers, which is more robustly reflected in introduced contexts.
+
+# Conclusion
+
+The present study aimed to investigate the reference tracking strategies of native and late deaf adult signers in TİD narratives. In line with our expectations, we found that the distribution of REATs (nominal, pronominal, classifier, and null marking) and perspectives (character, observer, and mixed) followed from previous accounts of referential accessibility. That is, signers preferred more explicit forms for referents with low accessibility, and they used more implicit forms for highly accessible referents. As for the age of acquisition effects, we observed limited over-redundancy for signers with delayed language acquisition (i.e., late signers) who employed fewer implicit forms of reference tracking compared to native signers. We conclude that native signers might adhere to pragmatic norms and leverage accessibility better than late signers. In addition to the negative and long-lasting effects of delayed first language acquisition on late signers' morphosyntactic abilities [e.g., @boudreault2006; @newport1990], the aforementioned findings allude to the implication that pragmatic and cognitive factors should also be considered. Our results accentuates the necessity of engaging in signed narrative production early in life as well as the importance of early intervention for late signing deaf children.
+
+\clearpage
+
+\appendix
+
+# Participant background information
+
+\label{section:a}
+
+```{r echo=FALSE, message=FALSE, cache=FALSE, results='asis', warnings=FALSE}
+library(magrittr)
+library(tidyverse)
+library(readr)
+library(kableExtra)
+library("papaja")
+library(stringr)
+h1 = c("No", "Status", "Sex", "AOA", "Age", "LOE", "Deaf schools", "Home language", "Parents")
+
+df_table_a <- read.csv("./appendix/appendix_a_table.csv", sep = ";")
+names(df_table_a) <- h1
+df_table_a %<>% select(-Parents) 
+apa_table(df_table_a,
+          caption ="Participant demographic information based on self-report",
+          note = "AOA = age of acquisition, LOE = level of education, PM = primary school, MS = middle school, HS = high school, TR = (Spoken) Turkish.",
+          escape = FALSE,
+          placement = "hbt!",
+          font_size = "small",
+          landscape = FALSE
+)
+```
+
+\clearpage
+
+```{=tex}
+\setlength{\columnsep}{10pt}
+\twocolumn
+\linespread{1}
+\justifying
+\footnotesize
+```
+# Episodes in the stimuli
+
+\label{section:b}
+
+**Narration 1**
+
+1\. Tom chases Jerry, wearing a wooden plank
+
+2\. Tom and Jerry enter a tube
+
+3\. Tom falls down and Jerry runs away
+
+4\. Tube gets thinner and Tom chases Jerry
+
+5\. Jerry gets out and escapes
+
+6\. Tom follows Jerry in shape of a stick 
+
+**Narration 2**
+
+1\. Tom walks past a female cat sitting on a couch
+
+2\. Tom turns to and approaches female cat
+
+3\. Female cat blushes
+
+4\. Tom offers a fish in aquarium to female cat
+
+5\. Female cat rejects offer
+
+6\. Tom offers a bird in cage to female cat
+
+7\. Episode 5 is repeated
+
+8\. Tom leaves by walking in a flirtatious manner 
+
+**Narration 3**
+
+1\. Jerry falls down and tries to walk up stairs
+
+2\. Tom pulls carpet back
+
+3\. Jerry struggles
+
+4\. A piano falls down stairs
+
+5\. Jerry manages to escape
+
+6\. Tom sees piano and tries to run away
+
+7\. Piano smashes into Tom and flattens him
+
+8\. Tom falls on ground
+
+**Narration 4**
+
+1\. Tom hides behind a cardboard house
+
+2\. Jerry walks to house with a toy mouse
+
+3\. Toy leaves Jerry who stops at entrance
+
+4\. Toy enters house
+
+5\. Toy gets smashed into pieces
+
+6\. Jerry is surprised
+
+7\. Tom hurts his stomach after swallowing toy
+
+8\. Tom looks at his broken teeth on a mirror
+
+9\. Tom gets angry and throws down mirror
+
+**Narration 5**
+
+1\. Tom fakes sleeping and suddenly gets up
+
+2\. Tom pulls a rope inside a couch
+
+3\. Jerry appears holding a bar of soap
+
+4\. Jerry washes Tom's mouth with bar and flees
+
+5\. Tom spits soap out
+
+6\. Jerry escapes to nest with rope
+
+7\. Tom catches rope and stars pulling it
+
+8\. A mouse trap appears and catches Tom's nose
+
+9\. Tom yells and removes trap
+
+**Narration 6**
+
+1\. Tom points a sword at Jerry and catches him
+
+2\. Tom looks at Jerry
+
+3\. Red spots appear on Jerry's face
+
+4\. Tom gets scared and drops Jerry
+
+5\. Tom rushes into bathroom
+
+6\. Tom washes his hands
+
+7\. Tom opens a drawer
+
+8\. Tom swallows pills one after another
+
+9\. Feeling ill, Tom looks out of window
+
+10\. Tom and Jerry look at each other
+
+**Narration 7**
+
+1\. Two male cats chase one another
+
+2\. Tom sees a female cat and kisses her
+
+3\. Tom hides away when black cat returns
+
+4\. Tom pokes his head behind couch again
+
+5\. Episode 3 is repeated
+
+6\. black cat sees female cat and hugs her
+
+7\. Tom appears and black cat kisses Tom
+
+8\. Two male cats move away from one another
+
+**Narration 8**
+
+1\. Jerry hits Tom's knee with a hammer
+
+2\. Tom suddenly jumps up
+
+3\. Tom yells and holds his knee
+
+4\. Jerry appraches Tom holding a thermometer
+
+5\. Jerry sticks thermometer into Tom's mouth
+
+6\. Jerry lights a fire under thermometer
+
+7\. Red liquid starts to rise up
+
+8\. Thermometer explodes
+
+**Narration 9**
+
+1\. Tom sits on Jerry who tries to get loose
+
+2\. Jerry looks around and sees a hat ribbon
+
+3\. Jerry finds a needle attached to hat
+
+4\. Jerry takes needle and sticks Tom with it
+
+5\. Tom turns red and jumps
+
+6\. Jerry placesn eedle between two cushions
+
+7\. Tom dodges needle
+
+**Narration 10**
+
+1\. Wearing a stethoscope, Tom catches Jerry
+
+2\. Jerry yells into stethoscope
+
+3\. Tom's head pops up
+
+4\. Jerry runs and enter a mouse nest
+
+5\. Tom inserts a gun into nest
+
+6\. Gun bends over toward Tom
+
+7\. Tom fires gun and his head explodes \clearpage
+
+\onecolumn
+
+# References

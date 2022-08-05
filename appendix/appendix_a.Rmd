@@ -1,0 +1,22 @@
+# Participant background information
+
+```{r echo=FALSE, message=FALSE, cache=FALSE, results='asis', warnings=FALSE}
+library(magrittr)
+library(tidyverse)
+library(readr)
+library(kableExtra)
+library("papaja")
+library(stringr)
+h1 = c("No", "Status", "Sex", "AOA", "Age", "LOE", "Deaf schools", "Home language", "Parents' hearing")
+
+df_table_a <- read.csv("appendix_a_table.csv", sep = ";")
+names(df_table_a) <- h1
+apa_table(df_table_a,
+          caption ="Participant demographic information based on self-report",
+          note = "AOA = age of acquisition, LOE = level of education, HS = high school, AD = associate degree, MS = middle school, BA/BS = Bachelor of Arts/Science, TR = (Spoken) Turkish.",
+          escape = FALSE,
+          placement = "h",
+          font_size = "footnotesize",
+          landscape = FALSE
+)
+```
