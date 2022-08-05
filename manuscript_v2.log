@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.24)  5 AUG 2022 08:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.24)  5 AUG 2022 11:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -926,11 +926,7 @@ Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
 \rotheadsize=\dimen329
 \c@nlinenum=\count377
 \TeXr@lab=\toks52
-) (./manuscript_v2.aux
-
-LaTeX Warning: Label `section:b' multiply defined.
-
-)
+) (./manuscript_v2.aux)
 \openout1 = `manuscript_v2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 122.
@@ -1046,228 +1042,220 @@ Underfull \hbox (badness 10000) in paragraph at lines 254--258
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 319--323
+Underfull \hbox (badness 10000) in paragraph at lines 319--322
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 329--330
+Underfull \hbox (badness 10000) in paragraph at lines 329--331
 
  []
 
-<pictures/flathand.png, id=159, 70.2625pt x 70.2625pt>
+<pictures/flathand.png, id=164, 70.2625pt x 70.2625pt>
 File: pictures/flathand.png Graphic file (type png)
 <use pictures/flathand.png>
-Package pdftex.def Info: pictures/flathand.png  used on input line 379.
+Package pdftex.def Info: pictures/flathand.png  used on input line 378.
 (pdftex.def)             Requested size: 25.0pt x 24.99963pt.
-<pictures/flat.png, id=161, 70.2625pt x 70.2625pt>
+<pictures/flat.png, id=166, 70.2625pt x 70.2625pt>
 File: pictures/flat.png Graphic file (type png)
 <use pictures/flat.png>
-Package pdftex.def Info: pictures/flat.png  used on input line 380.
+Package pdftex.def Info: pictures/flat.png  used on input line 379.
 (pdftex.def)             Requested size: 25.0pt x 24.99963pt.
-<pictures/small_legged.png, id=162, 70.2625pt x 70.2625pt>
+<pictures/small_legged.png, id=167, 70.2625pt x 70.2625pt>
 File: pictures/small_legged.png Graphic file (type png)
 <use pictures/small_legged.png>
-Package pdftex.def Info: pictures/small_legged.png  used on input line 381.
+Package pdftex.def Info: pictures/small_legged.png  used on input line 380.
 (pdftex.def)             Requested size: 25.0pt x 24.99963pt.
-<pictures/index.png, id=163, 70.2625pt x 70.2625pt>
+<pictures/index.png, id=168, 70.2625pt x 70.2625pt>
 File: pictures/index.png Graphic file (type png)
 <use pictures/index.png>
-Package pdftex.def Info: pictures/index.png  used on input line 382.
+Package pdftex.def Info: pictures/index.png  used on input line 381.
 (pdftex.def)             Requested size: 25.0pt x 24.99963pt.
-<pictures/hold.png, id=164, 70.2625pt x 70.2625pt>
+<pictures/hold.png, id=169, 70.2625pt x 70.2625pt>
 File: pictures/hold.png Graphic file (type png)
 <use pictures/hold.png>
-Package pdftex.def Info: pictures/hold.png  used on input line 383.
+Package pdftex.def Info: pictures/hold.png  used on input line 382.
 (pdftex.def)             Requested size: 25.0pt x 24.99963pt.
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 396--400
+Underfull \hbox (badness 10000) in paragraph at lines 395--399
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 396--400
+Underfull \hbox (badness 10000) in paragraph at lines 395--399
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 401--404
+Underfull \hbox (badness 10000) in paragraph at lines 400--403
 
  []
 
 [5 <./pictures/flathand.png> <./pictures/flat.png> <./pictures/small_legged.png> <./pictures/index.png> <./pictures/hold.png>]
-<pictures/1a_1.png, id=187, 200.75pt x 200.75pt>
+<pictures/1a_1.png, id=194, 200.75pt x 200.75pt>
 File: pictures/1a_1.png Graphic file (type png)
 <use pictures/1a_1.png>
-Package pdftex.def Info: pictures/1a_1.png  used on input line 428.
+Package pdftex.def Info: pictures/1a_1.png  used on input line 427.
 (pdftex.def)             Requested size: 50.0pt x 50.00052pt.
-<pictures/1c_2.png, id=189, 266.9975pt x 268.00125pt>
+<pictures/1c_2.png, id=196, 266.9975pt x 268.00125pt>
 File: pictures/1c_2.png Graphic file (type png)
 <use pictures/1c_2.png>
-Package pdftex.def Info: pictures/1c_2.png  used on input line 430.
+Package pdftex.def Info: pictures/1c_2.png  used on input line 429.
 (pdftex.def)             Requested size: 50.0pt x 50.18468pt.
-<pictures/1c_1.png, id=190, 256.96pt x 256.96pt>
+<pictures/1c_1.png, id=197, 256.96pt x 256.96pt>
 File: pictures/1c_1.png Graphic file (type png)
 <use pictures/1c_1.png>
-Package pdftex.def Info: pictures/1c_1.png  used on input line 430.
+Package pdftex.def Info: pictures/1c_1.png  used on input line 429.
 (pdftex.def)             Requested size: 50.0pt x 49.99916pt.
-<pictures/1b_1.png, id=191, 200.75pt x 200.75pt>
+<pictures/1b_1.png, id=198, 200.75pt x 200.75pt>
 File: pictures/1b_1.png Graphic file (type png)
 <use pictures/1b_1.png>
-Package pdftex.def Info: pictures/1b_1.png  used on input line 432.
+Package pdftex.def Info: pictures/1b_1.png  used on input line 431.
 (pdftex.def)             Requested size: 50.0pt x 50.00052pt.
-<pictures/1b_2.png, id=192, 200.75pt x 200.75pt>
+<pictures/1b_2.png, id=199, 200.75pt x 200.75pt>
 File: pictures/1b_2.png Graphic file (type png)
 <use pictures/1b_2.png>
-Package pdftex.def Info: pictures/1b_2.png  used on input line 432.
+Package pdftex.def Info: pictures/1b_2.png  used on input line 431.
 (pdftex.def)             Requested size: 50.0pt x 50.00052pt.
-<pictures/1b_3.png, id=193, 200.75pt x 200.75pt>
+<pictures/1b_3.png, id=200, 200.75pt x 200.75pt>
 File: pictures/1b_3.png Graphic file (type png)
 <use pictures/1b_3.png>
-Package pdftex.def Info: pictures/1b_3.png  used on input line 432.
+Package pdftex.def Info: pictures/1b_3.png  used on input line 431.
 (pdftex.def)             Requested size: 50.0pt x 50.00052pt.
-<pictures/1d_1.png, id=194, 200.75pt x 200.75pt>
+<pictures/1d_1.png, id=201, 200.75pt x 200.75pt>
 File: pictures/1d_1.png Graphic file (type png)
 <use pictures/1d_1.png>
-Package pdftex.def Info: pictures/1d_1.png  used on input line 434.
+Package pdftex.def Info: pictures/1d_1.png  used on input line 433.
 (pdftex.def)             Requested size: 50.0pt x 50.00052pt.
-<pictures/1d_2.png, id=195, 200.75pt x 200.75pt>
+<pictures/1d_2.png, id=202, 200.75pt x 200.75pt>
 File: pictures/1d_2.png Graphic file (type png)
 <use pictures/1d_2.png>
-Package pdftex.def Info: pictures/1d_2.png  used on input line 434.
+Package pdftex.def Info: pictures/1d_2.png  used on input line 433.
 (pdftex.def)             Requested size: 50.0pt x 50.00052pt.
-<pictures/2_1.png, id=196, 200.75pt x 200.75pt>
+<pictures/2_1.png, id=203, 200.75pt x 200.75pt>
 File: pictures/2_1.png Graphic file (type png)
 <use pictures/2_1.png>
-Package pdftex.def Info: pictures/2_1.png  used on input line 440.
+Package pdftex.def Info: pictures/2_1.png  used on input line 439.
 (pdftex.def)             Requested size: 50.0pt x 50.00052pt.
-<pictures/2_2.png, id=197, 200.75pt x 200.75pt>
+<pictures/2_2.png, id=204, 200.75pt x 200.75pt>
 File: pictures/2_2.png Graphic file (type png)
 <use pictures/2_2.png>
-Package pdftex.def Info: pictures/2_2.png  used on input line 440.
+Package pdftex.def Info: pictures/2_2.png  used on input line 439.
 (pdftex.def)             Requested size: 50.0pt x 50.00052pt.
-<pictures/3e.png, id=198, 200.75pt x 200.75pt>
+<pictures/3e.png, id=205, 200.75pt x 200.75pt>
 File: pictures/3e.png Graphic file (type png)
 <use pictures/3e.png>
-Package pdftex.def Info: pictures/3e.png  used on input line 447.
+Package pdftex.def Info: pictures/3e.png  used on input line 446.
 (pdftex.def)             Requested size: 50.0pt x 50.00052pt.
-<pictures/3b.png, id=199, 367.3725pt x 367.3725pt>
+<pictures/3b.png, id=206, 367.3725pt x 367.3725pt>
 File: pictures/3b.png Graphic file (type png)
 <use pictures/3b.png>
-Package pdftex.def Info: pictures/3b.png  used on input line 449.
+Package pdftex.def Info: pictures/3b.png  used on input line 448.
 (pdftex.def)             Requested size: 50.0pt x 49.99675pt.
-<pictures/3c.png, id=200, 200.75pt x 200.75pt>
+<pictures/3c.png, id=207, 200.75pt x 200.75pt>
 File: pictures/3c.png Graphic file (type png)
 <use pictures/3c.png>
-Package pdftex.def Info: pictures/3c.png  used on input line 451.
+Package pdftex.def Info: pictures/3c.png  used on input line 450.
 (pdftex.def)             Requested size: 50.0pt x 50.00052pt.
-<pictures/3d_1.png, id=201, 200.75pt x 200.75pt>
+<pictures/3d_1.png, id=208, 200.75pt x 200.75pt>
 File: pictures/3d_1.png Graphic file (type png)
 <use pictures/3d_1.png>
-Package pdftex.def Info: pictures/3d_1.png  used on input line 453.
+Package pdftex.def Info: pictures/3d_1.png  used on input line 452.
 (pdftex.def)             Requested size: 50.0pt x 50.00052pt.
-<pictures/3a.png, id=202, 200.75pt x 200.75pt>
+<pictures/3a.png, id=209, 200.75pt x 200.75pt>
 File: pictures/3a.png Graphic file (type png)
 <use pictures/3a.png>
-Package pdftex.def Info: pictures/3a.png  used on input line 453.
+Package pdftex.def Info: pictures/3a.png  used on input line 452.
 (pdftex.def)             Requested size: 50.0pt x 50.00052pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 452--454
+Underfull \hbox (badness 10000) in paragraph at lines 451--453
 
  []
 
-<pictures/4c.png, id=203, 200.75pt x 200.75pt>
+<pictures/4c.png, id=210, 200.75pt x 200.75pt>
 File: pictures/4c.png Graphic file (type png)
 <use pictures/4c.png>
-Package pdftex.def Info: pictures/4c.png  used on input line 462.
+Package pdftex.def Info: pictures/4c.png  used on input line 461.
 (pdftex.def)             Requested size: 50.0pt x 50.00052pt.
-<pictures/4a_2.png, id=204, 200.75pt x 200.75pt>
+<pictures/4a_2.png, id=211, 200.75pt x 200.75pt>
 File: pictures/4a_2.png Graphic file (type png)
 <use pictures/4a_2.png>
-Package pdftex.def Info: pictures/4a_2.png  used on input line 465.
+Package pdftex.def Info: pictures/4a_2.png  used on input line 464.
 (pdftex.def)             Requested size: 50.0pt x 50.00052pt.
-<pictures/4b_1.png, id=205, 309.155pt x 309.155pt>
+<pictures/4b_1.png, id=212, 309.155pt x 309.155pt>
 File: pictures/4b_1.png Graphic file (type png)
 <use pictures/4b_1.png>
-Package pdftex.def Info: pictures/4b_1.png  used on input line 469.
+Package pdftex.def Info: pictures/4b_1.png  used on input line 468.
 (pdftex.def)             Requested size: 50.0pt x 49.99886pt.
-<pictures/4b_2.png, id=206, 323.2075pt x 323.2075pt>
+<pictures/4b_2.png, id=213, 323.2075pt x 323.2075pt>
 File: pictures/4b_2.png Graphic file (type png)
 <use pictures/4b_2.png>
-Package pdftex.def Info: pictures/4b_2.png  used on input line 469.
+Package pdftex.def Info: pictures/4b_2.png  used on input line 468.
 (pdftex.def)             Requested size: 50.0pt x 49.998pt.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 473.
+(Font)              <8> on input line 472.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 473.
+(Font)              <6> on input line 472.
 [6
 
- <./pictures/1a_1.png> <./pictures/1c_2.png> <./pictures/1c_1.png> <./pictures/1b_1.png> <./pictures/1b_2.png> <./pictures/1b_3.png> <./pictures/1d_1.png> <./pictures/1d_2.png> <./pictures/2_1.png> <./pictures/2_2.png> <./pictures/3e.png> <./pictures/3b.png> <./pictures/3c.png> <./pictures/3d_1.png> <./pictures/3a.png> <./pictures/4c.png> <./pictures/4a_2.png> <./pictures/4b_1.png> <./pictures/4b_2.png>] [7] [8] [9] [10]
-Underfull \hbox (badness 8075) in paragraph at lines 789--790
+ <./pictures/1a_1.png> <./pictures/1c_2.png> <./pictures/1c_1.png> <./pictures/1b_1.png> <./pictures/1b_2.png> <./pictures/1b_3.png> <./pictures/1d_1.png> <./pictures/1d_2.png> <./pictures/2_1.png> <./pictures/2_2.png> <./pictures/3e.png> <./pictures/3b.png> <./pictures/3c.png> <./pictures/3d_1.png> <./pictures/3a.png> <./pictures/4c.png> <./pictures/4a_2.png> <./pictures/4b_1.png> <./pictures/4b_2.png>] [7] [8] [9] [10] [11]
+Underfull \hbox (badness 8075) in paragraph at lines 796--797
 []|\T1/ptm/m/n/8 (+20) A sub-ject ref-er-ent con-tin-ued
  []
 
 
-Underfull \hbox (badness 1721) in paragraph at lines 793--794
+Underfull \hbox (badness 1721) in paragraph at lines 800--801
 []|\T1/ptm/m/n/8 (+20) Borrowed nouns from Turk-ish
  []
 
 
-Underfull \hbox (badness 3128) in paragraph at lines 799--800
+Underfull \hbox (badness 3128) in paragraph at lines 806--807
 []|\T1/ptm/m/n/8 (+20) A mul-ti-func-tional con-struc-tion
  []
 
-[11] [12] [13] [14]
+[12] [13] [14]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 945.
+(Font)              <9> on input line 952.
 [15]
-<manuscript_v2_files/figure-latex/fig:count-plot-1.pdf, id=326, 343.2825pt x 252.945pt>
+<manuscript_v2_files/figure-latex/fig:count-plot-1.pdf, id=343, 343.2825pt x 252.945pt>
 File: manuscript_v2_files/figure-latex/fig:count-plot-1.pdf Graphic file (type pdf)
 <use manuscript_v2_files/figure-latex/fig:count-plot-1.pdf>
-Package pdftex.def Info: manuscript_v2_files/figure-latex/fig:count-plot-1.pdf  used on input line 1041.
+Package pdftex.def Info: manuscript_v2_files/figure-latex/fig:count-plot-1.pdf  used on input line 1048.
 (pdftex.def)             Requested size: 343.28165pt x 252.94438pt.
 [16]
-<manuscript_v2_files/figure-latex/fig:model-gram-1.pdf, id=334, 289.08pt x 180.675pt>
+<manuscript_v2_files/figure-latex/fig:model-gram-1.pdf, id=352, 289.08pt x 180.675pt>
 File: manuscript_v2_files/figure-latex/fig:model-gram-1.pdf Graphic file (type pdf)
 <use manuscript_v2_files/figure-latex/fig:model-gram-1.pdf>
-Package pdftex.def Info: manuscript_v2_files/figure-latex/fig:model-gram-1.pdf  used on input line 1068.
+Package pdftex.def Info: manuscript_v2_files/figure-latex/fig:model-gram-1.pdf  used on input line 1075.
 (pdftex.def)             Requested size: 289.07928pt x 180.67455pt.
 [17 <./manuscript_v2_files/figure-latex/fig:count-plot-1.pdf>] [18 <./manuscript_v2_files/figure-latex/fig:model-gram-1.pdf>] [19] [20] [21] [22] [23] [24] [25
 
+] [26
+
+
 ]
-<manuscript_v2_files/figure-latex/fig:model-camera-1.pdf, id=402, 289.08pt x 180.675pt>
+<manuscript_v2_files/figure-latex/fig:model-camera-1.pdf, id=424, 289.08pt x 180.675pt>
 File: manuscript_v2_files/figure-latex/fig:model-camera-1.pdf Graphic file (type pdf)
 <use manuscript_v2_files/figure-latex/fig:model-camera-1.pdf>
-Package pdftex.def Info: manuscript_v2_files/figure-latex/fig:model-camera-1.pdf  used on input line 1550.
+Package pdftex.def Info: manuscript_v2_files/figure-latex/fig:model-camera-1.pdf  used on input line 1750.
 (pdftex.def)             Requested size: 289.07928pt x 180.67455pt.
-[26
-
- <./manuscript_v2_files/figure-latex/fig:model-camera-1.pdf>] [27
-
-] [28
+[27
 
 
-]
-Overfull \hbox (16.64113pt too wide) in paragraph at lines 1934--1938
-[]\T1/ptm/m/n/8 (-20) Dudis, Paul G., 2004. Body par-ti-tion-ing and real-space blends. Cog-ni-tive Lin-guis-tics 15. doi:[]10.1515/cogl.2004.009[] 
- []
+ <./manuscript_v2_files/figure-latex/fig:model-camera-1.pdf>] [28
 
-[29
-
+] [29
 
 ] [30] [31] (./manuscript_v2.aux)
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `manuscript_v2.out' has not changed.
-(rerunfilecheck)             Checksum: 29B7905FF4EDF59E68C4BFDFDE862BB2;4408.
+(rerunfilecheck)             Checksum: 36CF5D99E86E2556F030733ECD6609DF;4408.
  ) 
 Here is how much of TeX's memory you used:
- 29910 strings out of 479983
- 561636 string characters out of 5886884
- 875330 words of memory out of 5000000
- 46902 multiletter control sequences out of 15000+600000
- 562427 words of font info for 340 fonts, out of 8000000 for 9000
+ 29929 strings out of 479983
+ 561792 string characters out of 5886884
+ 876282 words of memory out of 5000000
+ 46918 multiletter control sequences out of 15000+600000
+ 562530 words of font info for 341 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  99i,13n,103p,1010b,812s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
@@ -1301,10 +1289,10 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist,
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
 {/Users/onurkeles/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/Users/onurkeles/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/Users/onurkeles/Library/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}</Users/onurkeles/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr7.pfb></Users/onurkeles/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></Users/onurkeles/Library/TinyTeX/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></Users/onurkeles/Library/TinyTeX/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></Users/onurkeles/Library/TinyTeX/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on manuscript_v2.pdf (31 pages, 8002296 bytes).
+Output written on manuscript_v2.pdf (31 pages, 8003501 bytes).
 PDF statistics:
- 609 PDF objects out of 1000 (max. 8388607)
- 489 compressed objects within 5 object streams
- 198 named destinations out of 1000 (max. 500000)
+ 631 PDF objects out of 1000 (max. 8388607)
+ 510 compressed objects within 6 object streams
+ 200 named destinations out of 1000 (max. 500000)
  64976 words of extra memory for PDF output out of 74296 (max. 10000000)
 
