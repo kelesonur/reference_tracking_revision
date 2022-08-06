@@ -3,7 +3,7 @@ Clause Boundary;;The boundary between clauses indicated by the presence of predi
 Discourse Status;Introduced;A first mention of an entity in a given discourse regardless of any syntactic role
 ;Maintained;A subject referent continued across two or more immediate clauses
 ;Reintroduced;A subject referent discontinued across at least one clause
-REAT Type;NOM: Bare Noun;A non-modified noun phrase (e.g., CAT, MOUSE)
+RE Type;NOM: Bare Noun;A non-modified noun phrase (e.g., CAT, MOUSE)
 ;NOM: Modified Noun;A noun phrase modified by an index sign or an adjective
 ;NOM: Fingerspelled Noun;Borrowed nouns from Turkish spelled by the manual alphabet (e.g., K-E-D-İ ‘cat’)
 ;PRO: Pronominal IX;An index sign used in isolation to refer to an entity in discourse
