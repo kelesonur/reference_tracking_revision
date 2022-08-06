@@ -558,7 +558,7 @@ p1 <- df_narration %>%
 p1
 ```
 
-For more inference on the data and having pairwise comparisons, we fit a regression model to RE Type using discourse status and acquisition group as predictors. We used the brms package [@burkner2018] in R, with a categorical distribution on the responses and sum contrasts for the predictors Discourse Status (Introduction, Maintenance, Re-introduction) and Participant Group (Native, Late). As the overall number of produced pronouns was very little (40 data points), we excluded pronominal use from the following analyses. For the current analysis, we did not define priors ourselves and used the preset uninformed priors. Figure 2[^2] shows the posterior probability distributions where the dot is the median estimate, the thick line is the 50% credible intervals, and the thin line is the 95% credible intervals. There are 3 responses we are considering in this model. They are; Classifier, Nominative, and Null. Classifier response is the level that other responses Nominative and Null are compared against.
+For more inference on the data and having pairwise comparisons, we fit a regression model to RE Type using discourse status and acquisition group as predictors. We used the brms package [@burkner2018] in R, with a categorical distribution on the responses and sum contrasts for the predictors Discourse Status (Introduction, Maintenance, Re-introduction) and Participant Group (Native, Late). As the overall number of produced pronouns was very little (40 data points), we excluded pronominal use from the following analyses. For the current analysis, we did not define priors ourselves and used the preset uninformed priors. Figure 2[^2] shows the posterior probability distributions where the dot is the median estimate, the thick line is the 50% credible intervals, and the thin line is the 95% credible intervals. There are 3 responses we are considering in this model. They are Classifier, Nominative, and Null. Classifier response is the level that other responses Nominative and Null are compared against.
 
 [^2]: We ran another model where we used the Nativeness predictor with 3 levels 0-3:Native, 4-7:Late1, and 7-above:Late2. However, our model did not converge properly and the credible intervals were very wide spread, yielding the results uninformative. We provide the model results as a plot in \ref{section:d}.
 
@@ -600,7 +600,7 @@ A deeper look into the allocation of classifier constructions revealed that WECL
 
 As for the distribution of the null markers, approximately 90% of the plain verbs were used to maintain a previous referent, making these constructions least implicit REs used for TİD[^3]. Agreement verbs and CA were the following implicit markers of reference, `r sum(df_narration$GTR1 == "Person agreement verb" & df_narration$Discourse == "Maintenance") / sum(df_narration$GTR1 == "Person agreement verb")` and `r sum(df_narration$GTR1_plot == "CA" & df_narration$Discourse == "Maintenance") / sum(df_narration$GTR1_plot == "CA")` of which were used for maintained contexts, respectively. This contrasts with some of the research [@czubek2017] in which agreement verbs ranked lowest on scale, indicating that these constructions were more implicit compared to plain verbs. However, there seems to be a common ground for the position of CA markers which have been claimed to rank higher than other null markers as in the present study [@frederiksen2016; @czubek2017; @barbera2009]. In Figure \ref{fig:scale}, we report the distribution of REs in TİD as a function of referent accessibility and compare our accessibility hierarchy with that of [@frederiksen2016] for ASL. In the hierarchies, the left most REs (e.g., modified and bare nouns for TİD) are used when the accessibility is low. If the referent is already active in the addressee's mind and its accessibility is high, then the right most markers (e.g., agreement and plain verbs for TİD) are selected.
 
-[^3]: As in other sign languages, in TİD, the lexical meaning of signs has an effect on the morphological grouping. For instance, usually (di)transitive agreement verbs denote some sort of physical or metaphorical transfer of an object or abstract notion (Meir 1999). As for plain verbs, both phonology of a sign and its semantics have an effect on morphology. For instance, \textsc{eat} in TİD is signed nearby the mouth and since it needs to remain in that phonological location, it is not suitable for agreement and thus it is regarded as a plain verb. Likewise the experiencer verb \textsc{love} is signed on the torso and as such it does not take part in agreement. These generalizations noted we should also be cautious in labelling a verb as categorially one type or the other. For instance, some intransitive plain verbs like \textsc{fall} or \textsc{jump} in TİD may display spatial person agreement with the single argument in the clause (Gökgöz and Sevgi, 2020). See also for a similar discussion in Brazilian Sign Language.}.
+[^3]: As in other sign languages, in TİD, the lexical meaning of signs has an effect on the morphological grouping. For instance, usually (di)transitive agreement verbs denote some sort of physical or metaphorical transfer of an object or abstract notion [@meir1999]. As for plain verbs, both phonology of a sign and its semantics have an effect on morphology. For instance, \textsc{eat} in TİD is signed nearby the mouth and since it needs to remain in that phonological location, it is not suitable for agreement and thus it is regarded as a plain verb. Likewise the experiencer verb \textsc{love} is signed on the torso and as such it does not take part in agreement. These generalizations noted we should also be cautious in labelling a verb as categorially one type or the other. For instance, some intransitive plain verbs like \textsc{fall} or \textsc{jump} in TİD may display spatial person agreement with the single argument in the clause [@gokgoz2020]. See @lourenço2018 also for a similar discussion in Brazilian Sign Language.}.
 
 ```{=tex}
 \begin{figure}
@@ -976,7 +976,7 @@ df_model_camera$parameter %<>% dplyr::recode(`b_muNominal_Intercept` = "Nom_Inte
 saveRDS(df_model_camera, "./rds/df_model_camera.rds")
 ```
 
-```{r model-camera, fig.cap="Regression model plot for the RE Type (Nominal, Null) with the predictors Discourse Status (Introduction, Maintenance, Re-introduction) and Participant Group (Native, Late)", fig.height=3.5, fig.pos="hbt!", fig.width=4, echo=FALSE, message=FALSE, cache=FALSE, results='asis', warnings=FALSE}
+```{r model-camera, fig.cap="Regression model plot for the RE Type (Nominal, Null) with the predictors Discourse Status (Introduction, Maintenance, Re-introduction), Participant Group (Native, Late) and Narration Style (all responses vs. only camera)", fig.height=3.5, fig.pos="hbt!", fig.width=4, echo=FALSE, message=FALSE, cache=FALSE, results='asis', warnings=FALSE}
 df_model_1 %<>% mutate(model = "All")
 df_model_camera %<>% mutate(model = "Camera")
 model_comparison <- rbind(df_model_1, df_model_camera)
@@ -990,7 +990,10 @@ p4 <- model_comparison %>%
   scale_color_grey() +
   scale_fill_grey() 
 p4
+
 ```
+
+*Note:* "All" indicates model results including all participants (both camera and experimenter) whereas "camera" indicates the results from only those who narrated to the camera. That is, the 4 signers who narrated to the experimenter were from analysis in the second dataset.
 
 \clearpage
 
