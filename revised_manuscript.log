@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.24)  6 AUG 2022 09:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.24)  6 AUG 2022 12:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1234,10 +1234,10 @@ Package pdftex.def Info: revised_manuscript_files/figure-latex/model-gram-1.pdf 
 
 
 ]
-<revised_manuscript_files/figure-latex/model-camera-1.pdf, id=425, 289.08pt x 252.945pt>
+<revised_manuscript_files/figure-latex/model-camera-1.pdf, id=423, 289.08pt x 252.945pt>
 File: revised_manuscript_files/figure-latex/model-camera-1.pdf Graphic file (type pdf)
 <use revised_manuscript_files/figure-latex/model-camera-1.pdf>
-Package pdftex.def Info: revised_manuscript_files/figure-latex/model-camera-1.pdf  used on input line 1753.
+Package pdftex.def Info: revised_manuscript_files/figure-latex/model-camera-1.pdf  used on input line 1757.
 (pdftex.def)             Requested size: 289.07928pt x 252.94438pt.
 [27
 
@@ -1251,16 +1251,13 @@ Package rerunfilecheck Info: File `revised_manuscript.out' has not changed.
 (rerunfilecheck)             Checksum: 658534DDC08989BF7A3E6F7EA796A246;4365.
  ) 
 Here is how much of TeX's memory you used:
- 29944 strings out of 479983
- 562053 string characters out of 5886884
- 876294 words of memory out of 5000000
+ 29943 strings out of 479983
+ 562041 string characters out of 5886884
+ 876295 words of memory out of 5000000
  46918 multiletter control sequences out of 15000+600000
  563145 words of font info for 349 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  99i,13n,103p,1015b,812s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{Hfootnote.10} has been referenced but does not exist, replaced by a fixed one
-
 
 pdfTeX warning (dest): name{Hfootnote.9} has been referenced but does not exist, replaced by a fixed one
 
@@ -1289,10 +1286,10 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist,
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
 {/Users/onurkeles/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/Users/onurkeles/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/Users/onurkeles/Library/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}</Users/onurkeles/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr7.pfb></Users/onurkeles/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></Users/onurkeles/Library/TinyTeX/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></Users/onurkeles/Library/TinyTeX/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></Users/onurkeles/Library/TinyTeX/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on revised_manuscript.pdf (31 pages, 8005893 bytes).
+Output written on revised_manuscript.pdf (31 pages, 8006058 bytes).
 PDF statistics:
- 634 PDF objects out of 1000 (max. 8388607)
- 513 compressed objects within 6 object streams
- 203 named destinations out of 1000 (max. 500000)
+ 632 PDF objects out of 1000 (max. 8388607)
+ 511 compressed objects within 6 object streams
+ 202 named destinations out of 1000 (max. 500000)
  64976 words of extra memory for PDF output out of 74296 (max. 10000000)
 
