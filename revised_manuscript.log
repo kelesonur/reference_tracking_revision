@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.28)  31 JAN 2023 21:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.28)  31 JAN 2023 23:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1168,29 +1168,27 @@ Package pdftex.def Info: revised_manuscript_files/figure-latex/model-gram-1.pdf 
 
 ] [28
 
-] [29
-
 
 ]
-<revised_manuscript_files/figure-latex/model-camera-1.pdf, id=414, 289.08pt x 252.945pt>
+<revised_manuscript_files/figure-latex/model-camera-1.pdf, id=410, 289.08pt x 252.945pt>
 File: revised_manuscript_files/figure-latex/model-camera-1.pdf Graphic file (type pdf)
 <use revised_manuscript_files/figure-latex/model-camera-1.pdf>
-Package pdftex.def Info: revised_manuscript_files/figure-latex/model-camera-1.pdf  used on input line 1782.
+Package pdftex.def Info: revised_manuscript_files/figure-latex/model-camera-1.pdf  used on input line 1780.
 (pdftex.def)             Requested size: 289.07928pt x 252.94438pt.
-[30
+[29
 
 
- <./revised_manuscript_files/figure-latex/model-camera-1.pdf>] [31
+ <./revised_manuscript_files/figure-latex/model-camera-1.pdf>] [30
 
-] [32
+] [31
 
-] [33] [34] (./revised_manuscript.aux)
+] [32] [33] (./revised_manuscript.aux)
 Package rerunfilecheck Info: File `revised_manuscript.out' has not changed.
 (rerunfilecheck)             Checksum: F0EF65BA776F33A1F8CE2AC74113D2F7;4358.
  ) 
 Here is how much of TeX's memory you used:
- 29890 strings out of 478025
- 561531 string characters out of 5839237
+ 29889 strings out of 478025
+ 561524 string characters out of 5839237
  1876305 words of memory out of 5000000
  48846 multiletter control sequences out of 15000+600000
  597555 words of font info for 341 fonts, out of 8000000 for 9000
@@ -1239,10 +1237,10 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist,
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
 {/Users/onurkeles/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/Users/onurkeles/Library/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}</Users/onurkeles/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></Users/onurkeles/Library/TinyTeX/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></Users/onurkeles/Library/TinyTeX/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></Users/onurkeles/Library/TinyTeX/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on revised_manuscript.pdf (34 pages, 3067592 bytes).
+Output written on revised_manuscript.pdf (33 pages, 3067289 bytes).
 PDF statistics:
- 623 PDF objects out of 1000 (max. 8388607)
- 517 compressed objects within 6 object streams
- 201 named destinations out of 1000 (max. 500000)
+ 619 PDF objects out of 1000 (max. 8388607)
+ 514 compressed objects within 6 object streams
+ 200 named destinations out of 1000 (max. 500000)
  56736 words of extra memory for PDF output out of 61914 (max. 10000000)
 

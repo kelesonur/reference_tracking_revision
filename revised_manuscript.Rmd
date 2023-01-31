@@ -234,7 +234,7 @@ options(scipen=1, digits=2)
 df_table_2 <- read.csv("./appendix/tables/table_tier.csv", sep = ";")
 apa_table(df_table_2,
           caption ="Annotation Tiers with their Tags and Descriptions",
-          note = "NOM = nominal, PRO = pronominal, CL = classifier, NULL = null anaphora.",
+          note = "NOM = nominal, PRO = pronominal, CL = classifier, ZERO = zero anaphora.",
           escape = FALSE,
           align = c("p{3.2cm}", rep("p{3.8cm}", ncol(df_table_2))),
           placement = "p",
