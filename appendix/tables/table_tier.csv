@@ -7,10 +7,10 @@ RE Type;NOM: Bare Noun;A non-modified noun phrase (e.g., CAT, MOUSE)
 ;NOM: Modified Noun;A noun phrase modified by an index sign or an adjective
 ;NOM: Fingerspelled Noun;Borrowed nouns from Turkish spelled by the manual alphabet (e.g., K-E-D-İ ‘cat’)
 ;PRO: Pronominal IX;An index sign used in isolation to refer to an entity in discourse
-;CL: Whole Entity Classifier;A manual construction that refers to the entirety of an entity
-;CL: Body Part Classifier;A manual construction that refers to a part of an entity
-;CL: Handling Classifier;A manual construction that refers to the handling of an item
-;CL: Extension Classifier;A manual construction that denotes the size and shape of an entity
+;CL: Whole Entity Classifier;A handshape that refers to the entirety of an entity
+;CL: Body Part Classifier;A handshape that refers to a part of an entity
+;CL: Handling Classifier;A handshape that refers to the handling of an item
+;CL: Extension Classifier;A handshape that denotes the size and shape of an entity
 ;NULL: Constructed Action;A multifunctional construction where the signers take on the role of a referent and perform their actions
-;NULL: Plain Verb;A non-agreeing verb (e.g., LOVE)
-;NULL: Agreement Verb;A verbal construction the beginning and ending of which agree with person and number
+;NULL: Plain Verb;A non-agreeing predicate (e.g., LOVE)
+;NULL: Agreement Verb;A predicate the beginning and ending of which agree with the person and number

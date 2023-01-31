@@ -243,7 +243,7 @@ Subject;Nativeness;Narrative;Reference;Discourse;GTR1_CAT;GTR1;GTR2;GTR-Setting;
 3;1;6;21;Maintenance;Classifier;Body part CL;0;No;1;N
 3;1;2;1;Introduction;Nominal;Bare noun;0;No;0;N
 3;1;2;2;Introduction;Nominal;Bare noun;0;No;0;N
-3;1;2;3;Introduction;Nominal;Bare noun;0;No;0;N
+3;1;2;3;Introduction;Nominal;Fingerspelled noun;0;No;0;N
 3;1;2;4;Maintenance;Zero Anaphor;Person agreement verb;0;No;0;N
 3;1;2;5;Maintenance;Zero Anaphor;Constructed action;0;No;0;N
 3;1;2;6;Maintenance;Zero Anaphor;Constructed action;Body part CL;Yes;0;N
@@ -334,10 +334,10 @@ Subject;Nativeness;Narrative;Reference;Discourse;GTR1_CAT;GTR1;GTR2;GTR-Setting;
 3;1;9;15;Re-introduction;Nominal;Bare noun;0;No;0;N
 3;1;9;16;Maintenance;Classifier;Whole entity CL;0;No;1;N
 3;1;7;1;Introduction;Nominal;Point noun;0;No;0;N
-3;1;7;2;Introduction;Nominal;Bare noun;0;No;0;N
+3;1;7;2;Introduction;Nominal;Fingerspelled noun;0;No;0;N
 3;1;7;3;Introduction;Nominal;Bare noun;0;No;0;N
 3;1;7;4;Maintenance;Classifier;Whole entity CL;0;No;1;N
-3;1;7;5;Re-introduction;Nominal;Bare noun;0;No;0;N
+3;1;7;5;Re-introduction;Nominal;Fingerspelled noun;0;No;0;N
 3;1;7;6;Re-introduction;Nominal;Bare noun;0;No;0;N
 3;1;7;7;Re-introduction;Classifier;Whole entity CL;0;No;1;N
 3;1;7;8;Maintenance;Zero Anaphor;Constructed action;Body part CL;Yes;0;N
@@ -346,10 +346,10 @@ Subject;Nativeness;Narrative;Reference;Discourse;GTR1_CAT;GTR1;GTR2;GTR-Setting;
 3;1;7;11;Maintenance;Classifier;Body part CL;0;No;1;N
 3;1;7;12;Maintenance;Zero Anaphor;Person agreement verb;Body part CL;Yes;1;N
 3;1;7;13;Re-introduction;Nominal;Bare noun;0;No;0;N
-3;1;7;14;Re-introduction;Nominal;Bare noun;0;No;0;N
+3;1;7;14;Re-introduction;Nominal;Fingerspelled noun;0;No;0;N
 3;1;7;15;Re-introduction;Classifier;Whole entity CL;0;No;0;N
 3;1;7;16;Maintenance;Zero Anaphor;Constructed action;Handling CL;Yes;0;N
-3;1;7;17;Re-introduction;Nominal;Bare noun;0;No;0;N
+3;1;7;17;Re-introduction;Nominal;Fingerspelled noun;0;No;0;N
 3;1;7;18;Re-introduction;Nominal;Bare noun;0;No;0;N
 3;1;7;19;Re-introduction;Nominal;Bare noun;0;No;0;N
 3;1;7;20;Re-introduction;Pronominal;Pronoun;0;No;0;N
