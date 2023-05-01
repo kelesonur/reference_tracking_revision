@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.28)  31 JAN 2023 23:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.28)  1 MAY 2023 11:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1049,151 +1049,154 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 327.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 327.
-[4]
-<pictures/p1.png, id=173, 150.5625pt x 191.71625pt>
+[4] [5]
+<pictures/p1.png, id=177, 150.5625pt x 191.71625pt>
 File: pictures/p1.png Graphic file (type png)
 <use pictures/p1.png>
 Package pdftex.def Info: pictures/p1.png  used on input line 355.
 (pdftex.def)             Requested size: 35.0pt x 44.56479pt.
-<pictures/p2.1.png, id=176, 106.3975pt x 115.43124pt>
+<pictures/p2.1.png, id=180, 106.3975pt x 115.43124pt>
 File: pictures/p2.1.png Graphic file (type png)
 <use pictures/p2.1.png>
 Package pdftex.def Info: pictures/p2.1.png  used on input line 362.
 (pdftex.def)             Requested size: 40.0pt x 43.3958pt.
-<pictures/p2.2.png, id=177, 106.3975pt x 115.43124pt>
+<pictures/p2.2.png, id=181, 106.3975pt x 115.43124pt>
 File: pictures/p2.2.png Graphic file (type png)
 <use pictures/p2.2.png>
 Package pdftex.def Info: pictures/p2.2.png  used on input line 362.
 (pdftex.def)             Requested size: 40.0pt x 43.3958pt.
-<pictures/p2.3.png, id=178, 106.3975pt x 115.43124pt>
+<pictures/p2.3.png, id=182, 106.3975pt x 115.43124pt>
 File: pictures/p2.3.png Graphic file (type png)
 <use pictures/p2.3.png>
 Package pdftex.def Info: pictures/p2.3.png  used on input line 362.
 (pdftex.def)             Requested size: 40.0pt x 43.3958pt.
-<pictures/p3.1.png, id=179, 179.67125pt x 165.61874pt>
+<pictures/p3.1.png, id=183, 179.67125pt x 165.61874pt>
 File: pictures/p3.1.png Graphic file (type png)
 <use pictures/p3.1.png>
 Package pdftex.def Info: pictures/p3.1.png  used on input line 369.
 (pdftex.def)             Requested size: 45.0pt x 41.4804pt.
-<pictures/p3.2.png, id=180, 148.555pt x 161.60374pt>
+<pictures/p3.2.png, id=184, 148.555pt x 161.60374pt>
 File: pictures/p3.2.png Graphic file (type png)
 <use pictures/p3.2.png>
 Package pdftex.def Info: pictures/p3.2.png  used on input line 369.
 (pdftex.def)             Requested size: 40.0pt x 43.51276pt.
-<pictures/p4.1.png, id=181, 126.4725pt x 160.6pt>
+<pictures/p4.1.png, id=185, 126.4725pt x 160.6pt>
 File: pictures/p4.1.png Graphic file (type png)
 <use pictures/p4.1.png>
 Package pdftex.def Info: pictures/p4.1.png  used on input line 376.
 (pdftex.def)             Requested size: 35.0pt x 44.44327pt.
-<pictures/p4.2.png, id=182, 126.4725pt x 161.60374pt>
+<pictures/p4.2.png, id=186, 126.4725pt x 161.60374pt>
 File: pictures/p4.2.png Graphic file (type png)
 <use pictures/p4.2.png>
 Package pdftex.def Info: pictures/p4.2.png  used on input line 376.
 (pdftex.def)             Requested size: 35.0pt x 44.72104pt.
-[5 <./pictures/p1.png> <./pictures/p2.1.png> <./pictures/p2.2.png> <./pictures/p2.3.png> <./pictures/p3.1.png> <./pictures/p3.2.png>]
-<pictures/p5.png, id=196, 124.465pt x 191.71625pt>
+[6 <./pictures/p1.png> <./pictures/p2.1.png> <./pictures/p2.2.png> <./pictures/p2.3.png> <./pictures/p3.1.png> <./pictures/p3.2.png> <./pictures/p4.1.png> <./pictures/p4.2.png>]
+<pictures/p5.png, id=203, 124.465pt x 191.71625pt>
 File: pictures/p5.png Graphic file (type png)
 <use pictures/p5.png>
 Package pdftex.def Info: pictures/p5.png  used on input line 398.
 (pdftex.def)             Requested size: 35.0pt x 53.91129pt.
-[6 <./pictures/p4.1.png> <./pictures/p4.2.png> <./pictures/p5.png>]
-<pictures/p6.png, id=213, 120.45pt x 161.60374pt>
+[7 <./pictures/p5.png>]
+<pictures/p6.png, id=219, 120.45pt x 161.60374pt>
 File: pictures/p6.png Graphic file (type png)
 <use pictures/p6.png>
 Package pdftex.def Info: pictures/p6.png  used on input line 449.
 (pdftex.def)             Requested size: 40.0pt x 53.66475pt.
-<pictures/p7.png, id=214, 130.4875pt x 161.60374pt>
+<pictures/p7.png, id=220, 130.4875pt x 161.60374pt>
 File: pictures/p7.png Graphic file (type png)
 <use pictures/p7.png>
 Package pdftex.def Info: pictures/p7.png  used on input line 456.
 (pdftex.def)             Requested size: 40.0pt x 49.53935pt.
-<pictures/p8.png, id=215, 110.4125pt x 161.60374pt>
+<pictures/p8.png, id=221, 110.4125pt x 161.60374pt>
 File: pictures/p8.png Graphic file (type png)
 <use pictures/p8.png>
 Package pdftex.def Info: pictures/p8.png  used on input line 463.
 (pdftex.def)             Requested size: 40.0pt x 58.54471pt.
-[7 <./pictures/p6.png> <./pictures/p7.png>]
-<pictures/p9.png, id=228, 335.2525pt x 174.6525pt>
+[8 <./pictures/p6.png> <./pictures/p7.png> <./pictures/p8.png>]
+<pictures/p9.png, id=233, 335.2525pt x 174.6525pt>
 File: pictures/p9.png Graphic file (type png)
 <use pictures/p9.png>
 Package pdftex.def Info: pictures/p9.png  used on input line 470.
 (pdftex.def)             Requested size: 80.0pt x 41.67494pt.
-[8 <./pictures/p8.png> <./pictures/p9.png>]
-<pictures/p10.png, id=242, 128.48pt x 162.6075pt>
+[9 <./pictures/p9.png>]
+<pictures/p10.png, id=246, 128.48pt x 162.6075pt>
 File: pictures/p10.png Graphic file (type png)
 <use pictures/p10.png>
 Package pdftex.def Info: pictures/p10.png  used on input line 532.
 (pdftex.def)             Requested size: 40.0pt x 50.62614pt.
-<pictures/p11.png, id=243, 281.05pt x 158.5925pt>
+<pictures/p11.png, id=247, 281.05pt x 158.5925pt>
 File: pictures/p11.png Graphic file (type png)
 <use pictures/p11.png>
 Package pdftex.def Info: pictures/p11.png  used on input line 539.
 (pdftex.def)             Requested size: 80.0pt x 45.14124pt.
-<pictures/p12.png, id=244, 312.16624pt x 159.59625pt>
+<pictures/p12.png, id=248, 312.16624pt x 159.59625pt>
 File: pictures/p12.png Graphic file (type png)
 <use pictures/p12.png>
 Package pdftex.def Info: pictures/p12.png  used on input line 546.
 (pdftex.def)             Requested size: 80.0pt x 40.89984pt.
-[9 <./pictures/p10.png> <./pictures/p11.png>] [10 <./pictures/p12.png>] [11] [12]
-Underfull \hbox (badness 8075) in paragraph at lines 780--781
+[10 <./pictures/p10.png> <./pictures/p11.png> <./pictures/p12.png>] [11] [12] [13]
+Underfull \hbox (badness 8075) in paragraph at lines 781--782
 []|\T1/ptm/m/n/8 (+20) A sub-ject ref-er-ent con-tin-ued
  []
 
 
-Underfull \hbox (badness 1721) in paragraph at lines 784--785
+Underfull \hbox (badness 1721) in paragraph at lines 785--786
 []|\T1/ptm/m/n/8 (+20) Borrowed nouns from Turk-ish
  []
 
 
-Underfull \hbox (badness 3128) in paragraph at lines 790--791
+Underfull \hbox (badness 3128) in paragraph at lines 791--792
 []|\T1/ptm/m/n/8 (+20) A mul-ti-func-tional con-struc-tion
  []
 
-[13] [14] [15] [16]
+[14] [15] [16] [17]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 950.
-[17]
-<revised_manuscript_files/figure-latex/fig:count-plot-1.pdf, id=324, 343.2825pt x 252.945pt>
-File: revised_manuscript_files/figure-latex/fig:count-plot-1.pdf Graphic file (type pdf)
-<use revised_manuscript_files/figure-latex/fig:count-plot-1.pdf>
-Package pdftex.def Info: revised_manuscript_files/figure-latex/fig:count-plot-1.pdf  used on input line 1047.
-(pdftex.def)             Requested size: 343.28165pt x 252.94438pt.
+(Font)              <9> on input line 968.
 [18]
-<revised_manuscript_files/figure-latex/model-gram-1.pdf, id=334, 289.08pt x 180.675pt>
+<revised_manuscript_files/figure-latex/fig-count-plot-1.pdf, id=332, 343.2825pt x 252.945pt>
+File: revised_manuscript_files/figure-latex/fig-count-plot-1.pdf Graphic file (type pdf)
+<use revised_manuscript_files/figure-latex/fig-count-plot-1.pdf>
+Package pdftex.def Info: revised_manuscript_files/figure-latex/fig-count-plot-1.pdf  used on input line 1065.
+(pdftex.def)             Requested size: 343.28165pt x 252.94438pt.
+[19]
+<revised_manuscript_files/figure-latex/model-gram-1.pdf, id=340, 289.08pt x 180.675pt>
 File: revised_manuscript_files/figure-latex/model-gram-1.pdf Graphic file (type pdf)
 <use revised_manuscript_files/figure-latex/model-gram-1.pdf>
-Package pdftex.def Info: revised_manuscript_files/figure-latex/model-gram-1.pdf  used on input line 1076.
+Package pdftex.def Info: revised_manuscript_files/figure-latex/model-gram-1.pdf  used on input line 1094.
 (pdftex.def)             Requested size: 289.07928pt x 180.67455pt.
-[19 <./revised_manuscript_files/figure-latex/fig:count-plot-1.pdf>] [20 <./revised_manuscript_files/figure-latex/model-gram-1.pdf>] [21] [22] [23] [24] [25] [26] [27
+[20 <./revised_manuscript_files/figure-latex/fig-count-plot-1.pdf>] [21 <./revised_manuscript_files/figure-latex/model-gram-1.pdf>] [22] [23] [24] [25] [26] [27] [28
 
-] [28
+] [29
 
 
 ]
-<revised_manuscript_files/figure-latex/model-camera-1.pdf, id=410, 289.08pt x 252.945pt>
+<revised_manuscript_files/figure-latex/model-camera-1.pdf, id=415, 289.08pt x 252.945pt>
 File: revised_manuscript_files/figure-latex/model-camera-1.pdf Graphic file (type pdf)
 <use revised_manuscript_files/figure-latex/model-camera-1.pdf>
-Package pdftex.def Info: revised_manuscript_files/figure-latex/model-camera-1.pdf  used on input line 1780.
+Package pdftex.def Info: revised_manuscript_files/figure-latex/model-camera-1.pdf  used on input line 1799.
 (pdftex.def)             Requested size: 289.07928pt x 252.94438pt.
-[29
+[30
 
 
- <./revised_manuscript_files/figure-latex/model-camera-1.pdf>] [30
+ <./revised_manuscript_files/figure-latex/model-camera-1.pdf>] [31
 
-] [31
+] [32
 
-] [32] [33] (./revised_manuscript.aux)
+] [33] [34] (./revised_manuscript.aux)
 Package rerunfilecheck Info: File `revised_manuscript.out' has not changed.
 (rerunfilecheck)             Checksum: F0EF65BA776F33A1F8CE2AC74113D2F7;4358.
  ) 
 Here is how much of TeX's memory you used:
- 29889 strings out of 478025
- 561524 string characters out of 5839237
+ 29896 strings out of 478025
+ 561647 string characters out of 5839237
  1876305 words of memory out of 5000000
  48846 multiletter control sequences out of 15000+600000
  597555 words of font info for 341 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  99i,13n,103p,1015b,822s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{Hfootnote.15} has been referenced but does not exist, replaced by a fixed one
+
 
 pdfTeX warning (dest): name{Hfootnote.14} has been referenced but does not exist, replaced by a fixed one
 
@@ -1237,10 +1240,10 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist,
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
 {/Users/onurkeles/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/Users/onurkeles/Library/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}</Users/onurkeles/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></Users/onurkeles/Library/TinyTeX/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></Users/onurkeles/Library/TinyTeX/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></Users/onurkeles/Library/TinyTeX/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on revised_manuscript.pdf (33 pages, 3067289 bytes).
+Output written on revised_manuscript.pdf (34 pages, 3069333 bytes).
 PDF statistics:
- 619 PDF objects out of 1000 (max. 8388607)
- 514 compressed objects within 6 object streams
- 200 named destinations out of 1000 (max. 500000)
+ 633 PDF objects out of 1000 (max. 8388607)
+ 527 compressed objects within 6 object streams
+ 207 named destinations out of 1000 (max. 500000)
  56736 words of extra memory for PDF output out of 61914 (max. 10000000)
 
