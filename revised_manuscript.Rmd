@@ -30,7 +30,7 @@ header-includes:
    - \usepackage[utf8]{inputenc}
    - \usepackage[T1]{fontenc}
    - \usepackage{graphicx}
-   - \usepackage{./sty/langsci-gb4e}
+   - \usepackage{langsci-gb4e}
    - \usepackage{caption}
    - \usepackage{multicol}
    - \setlength{\columnsep}{-2cm}
@@ -545,7 +545,7 @@ p1
 
 For more inference on the data and having pairwise comparisons, we fit a regression model to RE Type using discourse status and acquisition group as predictors. We used the brms package [@burkner2018] in R, with a categorical distribution on the responses and sum contrasts for the predictors Discourse Status (Introduction, Maintenance, Re-introduction) and Participant Group (DoD, DoH). As the overall number of produced pronouns was very little (40 data points), we excluded pronominal use from the following analyses. For the current analysis, we did not define priors ourselves and used the preset uninformed priors. Figure 2[^2] shows the posterior probability distributions where the dot is the median estimate, the thick line is the 50% credible intervals, and the thin line is the 95% credible intervals. There are 3 responses we are considering in this model. They are Classifier, Nominal, and Zero Anaphora. Classifier response is the level that other responses Nominal and Zero Anaphora are compared against.
 
-[^2]: We ran another model where we used the self-reported acquisition time as a predictor with 3 levels 0-3:Early, 4-7:Late1, and 7-above:Late2. However, our model did not converge properly and the credible intervals were very wide spread, yielding the results uninformative. We provide the model results as a plot in \ref{section:d}.
+[^2]: The regression model results are given in \ref{section:modelResult}. We ran another model where we used the self-reported acquisition time as a predictor with 3 levels 0-3:Early, 4-7:Late1, and 7-above:Late2. However, our model did not converge properly and the credible intervals were very wide spread, yielding the results uninformative. We provide the model results as a plot in \ref{section:d}.
 
 ```{r model-gram, echo=FALSE, fig.cap="Regression model plot for the RE Type (Nominal, Zero, Classifier) with the predictors Discourse Status (Introduction, Maintenance, Re-introduction) and Participant Group (DoD, DoH)", fig.height=2.5, fig.pos="hbt!", fig.width=4, message=FALSE, warning=FALSE, cache=FALSE, results='asis', warnings=FALSE}
 p3 <- df_model_1 %>% 
@@ -984,6 +984,26 @@ p4
 
 \clearpage
 
+# Regression model results for RE Type
+
+\label{section:modelResult}
+
+```{r echo=FALSE, message=FALSE, cache=FALSE, results='asis', warning=FALSE}
+colnames(df_model_1)[1:4] <- c("Coefficients","outerWidth","innerWidth", "pointEstimate")
+df_model_1 %<>% mutate(across(.cols = "Coefficients", ~str_replace( ., "_","\\\\_")))
+apa_table(df_model_1,
+          format = "latex",
+          booktabs = T,
+          escape = FALSE,
+          landscape = FALSE,
+          font_size = "small",
+          placement = "hbt!",
+          caption ="Regression model results for the RE Type (Nominal, Zero, Classifier) with the predictors Discourse Status (Introduction, Maintenance, Re-introduction) and Participant Group (DoD, DoH)"
+)
+```
+
+\clearpage
+
 # Additional model with 3 levels for Nativeness
 
 \label{section:d}
@@ -1020,7 +1040,7 @@ df_table_extra$Coefficients %<>% dplyr::recode(`muNominal_Intercept` = "Nom_Inte
                                         `muNull_Group3M2:Discourse1` = 'Null_L2vsL1*Intro',
                                         `muNull_Group2M1:Discourse2` = 'Null_L1vsN*Maintain',
                                         `muNull_Group3M2:Discourse2` = 'Null_L2vsL1*Maintain')
-df_table_extra %<>% mutate( across(.cols = "Coefficients",~str_replace( ., "_","\\\\_")))
+df_table_extra %<>% mutate(across(.cols = "Coefficients",~str_replace( ., "_","\\\\_")))
 
 apa_table(df_table_extra,
           format = "latex",
@@ -1035,5 +1055,6 @@ apa_table(df_table_extra,
 ```
 
 \clearpage
+
 
 # References
