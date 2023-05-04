@@ -990,7 +990,7 @@ p4
 
 ```{r echo=FALSE, message=FALSE, cache=FALSE, results='asis', warning=FALSE}
 colnames(df_model_1)[1:4] <- c("Coefficients","outerWidth","innerWidth", "pointEstimate")
-df_model_1 %<>% mutate(across(.cols = "Coefficients", ~str_replace( ., "_","\\\\_")))
+df_model_1 %<>% dplyr::select(-model) %>% mutate(across(.cols = "Coefficients", ~str_replace( ., "_","\\\\_")))
 apa_table(df_model_1,
           format = "latex",
           booktabs = T,
@@ -1055,6 +1055,5 @@ apa_table(df_table_extra,
 ```
 
 \clearpage
-
 
 # References
